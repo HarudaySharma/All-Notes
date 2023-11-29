@@ -1,0 +1,5 @@
+- Relational Algebra in DBMS is a theoretical model which is the fundamental block for SQL. It comprises different mathematics operations.
+- Operations are divided into two main categories: Basic and Derived.
+- **Basic consists of six Operations: SELECT, PROJECT, UNION, SET DIFFERENCE, CARTESIAN PRODUCT, RENAME**.
+- **Derived Consist of three Operations: JOINS, INTERSECTION, DIVISION**.
+- Joins are of two types: Inner Join and Outer Join. Inner Join is further classified into three types: Theta Join, Equi Join, and Natural Join. Outer Join also consists of three types: Left Outer Join, Right Outer Join, and Full Outer Join.

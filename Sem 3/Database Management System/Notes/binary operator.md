@@ -1,0 +1,1 @@
+As it requires two operands.

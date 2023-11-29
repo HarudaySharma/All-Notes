@@ -1,0 +1,4 @@
+- Host A having IP Address `11.1.2.3` sending data to all other hosts residing in the same network.
+- Here,
+	- Source Address = IP Address of host A = `11.1.2.3`
+	- Destination Address = `255.255.255.255`

@@ -1,0 +1,4 @@
+- Host A having IP Address `11.1.2.3` sending data to host B having IP Address `20.12.4.2.` 
+- Here,
+	- `Source Address = IP Address of host A = 11.1.2.3`
+	- `Destination Address = IP Address of host B = 20.12.4.2`

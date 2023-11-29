@@ -1,0 +1,2 @@
+- Since messages are <span style="color:#00ffff">transmitted as complete entities</span>:
+- <span style="color:#00ffff">No risk</span> of <span style="color:#00ffff">data corruption</span> or <span style="color:#00ffff">loss</span> due to packet fragmentation or reassembly issues.

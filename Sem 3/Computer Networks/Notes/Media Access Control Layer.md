@@ -1,0 +1,2 @@
+- A Media access control layer is a ***<mark style="background: #FFB86CA6;">link between the Logical Link Control layer and the network's physical layer</mark>***.
+- It is <mark style="background: #BBFABBA6;">used for transferring the packets over the network</mark>.

@@ -1,0 +1,4 @@
+- <span style="color:#00ffff">Dr. E.F. Codd</span> was an <span style="color:#00ffff">IBM researcher</span> who <span style="color:#00ffff">developed</span> the <span style="color:#00ffff">relational model</span> in <span style="color:#00ffff">1970</span>.
+- In <span style="color:#00ffff">1985</span>, he <span style="color:#00ffff">published</span> a list of <span style="color:#00ffff">12 rules</span> which are <span style="color:#00ffff">in-fact 13</span> in number <span style="color:#00ffff">that define</span> an <span style="color:#00ffff">ideal relational model</span>.
+- These <span style="color:#00ffff">12 rules</span> are <span style="color:#00ffff">called Codd rules</span>.
+- The <span style="color:#00ffff">RDBMS</span> which <span style="color:#00ffff">satisfies</span> these <span style="color:#00ffff">rules</span> is called <span style="color:#00ffff">fully Relational Database</span>.

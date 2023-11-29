@@ -1,0 +1,1 @@
+It <mark style="background: #ADCCFFA6;">converts the data from sender-dependent format</mark> <mark style="background: #FFB86CA6;">into a common format</mark> and <mark style="background: #ADCCFFA6;">changes the common format into receiver-dependent format</mark> at the ***receiving end***.

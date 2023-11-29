@@ -1,0 +1,1 @@
+Used to uniquely identify entities within an entity set.

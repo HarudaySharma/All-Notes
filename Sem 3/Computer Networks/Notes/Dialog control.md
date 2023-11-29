@@ -1,0 +1,2 @@
+Session layer <mark style="background: #ADCCFFA6;">acts as a dialog controller that creates a dialog between two processes</mark>
+	or we can say that it <mark style="background: #ADCCFFA6;">allows the communication between two processes which can be either half-duplex or full-duplex.</mark>

@@ -1,0 +1,2 @@
+- Stop and Wait ARQ is a simple protocol that is easy to implement in both hardware and software.
+- It does not require complex algorithms or hardware components, making it an inexpensive and efficient option.

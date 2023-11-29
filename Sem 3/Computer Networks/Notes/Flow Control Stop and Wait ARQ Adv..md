@@ -1,0 +1,3 @@
+- Stop and Wait ARQ can be used for flow control,
+	- Where the receiver can control the rate at which the sender transmits data. 
+	- This is useful in situations where the receiver has limited buffer space or processing power

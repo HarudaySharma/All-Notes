@@ -1,0 +1,2 @@
+- Every change to the database initiated by a transaction is recorded in the transaction log.
+- Log entries typically include information such as the transaction ID, type of operation (insert, update, delete), and the before and after values.

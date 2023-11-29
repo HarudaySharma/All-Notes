@@ -1,0 +1,3 @@
+- works ***like an active hub*** and *includes remote management capabilities*
+- ***provide flexible data rates*** to network devices.
+- *enables* an *administrator* to ***monitor the traffic passing through the hub*** and to ***configure each port in the hub***.

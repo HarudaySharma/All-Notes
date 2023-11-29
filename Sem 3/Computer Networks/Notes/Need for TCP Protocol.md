@@ -1,0 +1,6 @@
+- In the layered architecture of a network model, the whole task is divided into smaller tasks.
+- Each task is assigned to a particular layer that processes the task.
+- In the TCP/IP model, five layers are application layer, transport layer, network layer, data link layer, and physical layer.
+- The transport layer has a critical role in providing end-to-end communication to the directly application processes. 
+- It creates 65,000 ports so that the multiple applications can be accessed at the same time.
+- It takes the data from the upper layer, and it divides the data into smaller packets and then transmits them to the network layer.

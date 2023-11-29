@@ -1,0 +1,1 @@
+A link can be a cable, air, optical fiber, or any medium which can transport a signal carrying information.

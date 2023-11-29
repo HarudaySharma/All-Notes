@@ -1,0 +1,7 @@
+- On the receiver side, the size of the window is always 1.
+- The receiver acknowledges a frame by sending an ACK frame to the sender, along with the sequence number of the next expected frame.
+- The receiver declares explicitly that it is ready to receive N subsequent frames, starting with the specified number.
+- We use this scheme in order to acknowledge multiple frames.
+- The receiver’s window can hold 2,3,4 frames, but the ACK frame will be held until frame 4 arrives. It will send the
+- ACK along with sequence number 5 after the arrival, with which the acknowledgment of 2,3,4 will be done one at a time.
+- The receiver requires a buffer size of one.

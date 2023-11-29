@@ -1,0 +1,1 @@
+We can share resources such as **programs, printers and *data*** among the users on the network. ***without the requirement of physical location of the resource and user***.

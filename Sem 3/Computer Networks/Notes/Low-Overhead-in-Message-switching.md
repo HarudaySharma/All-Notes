@@ -1,0 +1,2 @@
+This switching typically <span style="color:#00ffff">incurs</span> <span style="color:#00ffff">lower overhead</span> because :
+- it <span style="color:#00ffff">doesn't require additional headers</span> or <span style="color:#00ffff">control information</span> for <span style="color:#fffd01">packetization</span> and <span style="color:#fffd01">routing</span>.

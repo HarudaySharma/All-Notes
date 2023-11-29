@@ -1,0 +1,1 @@
+Are configured manually and route data packets based on information in a router table.

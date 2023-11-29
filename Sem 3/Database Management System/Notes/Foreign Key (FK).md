@@ -1,0 +1,2 @@
+- A foreign key is an attribute in one table i.e. a primary key in another table.
+- It establishes relationships between tables.

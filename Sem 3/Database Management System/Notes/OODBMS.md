@@ -1,0 +1,1 @@
+An OODBMS <mark style="background: #BBFABBA6;">stores data as objects, which can be manipulated</mark> ***using object-oriented programming languages.***

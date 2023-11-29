@@ -1,0 +1,1 @@
+>SQL language for storing and manipulating data in a Database. If a system uses a low-level or different language to access the DB system other than SQL, it should not bypass or subvert data integrity.

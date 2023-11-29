@@ -1,0 +1,2 @@
+- Signal reflection at the taps can cause degradation in quality.
+- can be controlled by limiting the number and spacing of devices connected to a given length of cable.

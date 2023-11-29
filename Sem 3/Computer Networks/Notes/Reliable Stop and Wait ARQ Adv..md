@@ -1,0 +1,3 @@
+- It ensures that the data is transmitted reliably and in order. 
+- The receiver cannot move on to the next data packet until it receives the current one. 
+- This ensures that the data is received in the correct order and eliminates the possibility of data corruption.

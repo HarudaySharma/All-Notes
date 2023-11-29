@@ -1,0 +1,5 @@
+- The primary function of X.25 is at the Network Layer.
+- X.25 ***<span style="color:#00ffff">uses</span>*** a ***<span style="color:#00ffff">virtual circuit switching</span>*** mechanism to ***<span style="color:#00ffff">establish</span>*** logical ***<span style="color:#00ffff">connections between devices</span>***.
+- These ***<span style="color:#00ffff">connections</span>*** are ***<span style="color:#00ffff">referred</span>*** to as "**<span style="color:#00ffff">virtual circuits</span>**."
+- It ***<span style="color:#00ffff">manages</span>*** the ***<span style="color:#00ffff">routing</span>*** of ***<span style="color:#00ffff">data packets between</span>*** these ***<span style="color:#00ffff">virtual circuits</span>***, 
+- X.25 ***<span style="color:#00ffff">defines</span>*** a ***<span style="color:#00ffff">network layer protocol</span>*** that ***<span style="color:#00ffff">includes</span>*** features like ***<span style="color:#00ffff">addressing</span>***, ***<span style="color:#00ffff">packet sequencing</span>***, and ***<span style="color:#00ffff">error recovery</span>***.

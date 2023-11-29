@@ -1,0 +1,2 @@
+- **<span style="color:#00ffcc">Making use</span>** of ***<span style="color:#00ffcc">new storage technology</span>***, such as a ***<span style="color:#01ff07">hard drive</span>*** or ***<span style="color:#01ff07">magnetic tapes</span>***.
+- **<span style="color:#00ffcc">Change</span>** the ***<span style="color:#00ffcc">location</span>*** of the ***<span style="color:#00ffcc">database</span>*** from ***<span style="color:#01ff07">one drive</span>*** to ***<span style="color:#01ff07">another</span>***.

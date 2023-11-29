@@ -1,0 +1,1 @@
+- Stop and Wait ARQ is compatible with many existing systems and protocols, making it a popular choice for communication over unreliable channels.

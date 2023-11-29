@@ -1,0 +1,4 @@
+- SSH stands for Secure Shell.
+- It is a terminal emulations software similar to Telnet.
+- The reason SSH is more preferred is because of its ability to maintain the encrypted connection.
+- It sets up a secure session over a TCP/IP connection.

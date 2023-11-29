@@ -1,0 +1,2 @@
+- User Datagram Protocol is a transport layer protocol.
+- It is an <mark style="background: #FFB86CA6;">unreliable transport protocol</mark> as in this case receiver does not send any acknowledgment when the packet is received, the sender does not wait for any acknowledgment. Therefore, this makes a protocol unreliable.

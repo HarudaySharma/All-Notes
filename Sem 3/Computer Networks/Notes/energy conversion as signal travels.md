@@ -1,0 +1,1 @@
+energy is transformed into heat as signal travels through a distance.

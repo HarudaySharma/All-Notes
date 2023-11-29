@@ -1,0 +1,2 @@
+- SNMP stands for Simple Network Management Protocol.
+- It is a framework used for managing the devices on the internet by using the TCP/IP protocol suite.

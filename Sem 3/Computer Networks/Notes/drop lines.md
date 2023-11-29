@@ -1,0 +1,1 @@
+A drop line is a connection running between the device and the main cable.

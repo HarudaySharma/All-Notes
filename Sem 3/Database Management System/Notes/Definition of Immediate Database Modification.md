@@ -1,0 +1,3 @@
+**Definition:**
+
+- Immediate Database Modification is a contrasting strategy where changes made by a transaction are immediately applied to the actual database during the transaction's execution.

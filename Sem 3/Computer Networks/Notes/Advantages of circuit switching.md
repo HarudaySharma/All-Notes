@@ -1,0 +1,3 @@
+- This technique <span style="color:#00ffff">provides guaranteed data transmission</span>.
+- Data is <span style="color:#00ffff">sent without any delay</span>.
+- Suitable only for <span style="color:#00ffff">long continuous transmission.</span>

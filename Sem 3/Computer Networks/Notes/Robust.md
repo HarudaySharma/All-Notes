@@ -1,0 +1,1 @@
+If one link becomes unusable, it does not incapacitate the entire system.

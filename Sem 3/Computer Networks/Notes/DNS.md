@@ -1,0 +1,3 @@
+- DNS stands for Domain Name System.
+- An IP address is used to identify the connection of a host to the internet uniquely. But, people prefer to use the names instead of addresses. Therefore,
+- the system that maps the name to the address is known as Domain Name System.

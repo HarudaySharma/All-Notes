@@ -1,0 +1,3 @@
+- <span style="color:#00ffff">Multiple access protocols</span> in the <span style="color:#00ffff">Data Link Layer</span> are <span style="color:#00ffff">responsible for</span>
+	- <span style="color:#fffd01">Handling</span> <span style="color:#fffd01">how multiple devices access</span> and <span style="color:#fffd01">share</span> a <span style="color:#fffd01">common communication medium</span> in a <span style="color:#fffd01">network</span>.
+- **the <span style="color:#fffd01">multiple access protocol</span> is <span style="color:#fffd01">required to reduce</span> the <span style="color:#fffd01">collision</span> and <span style="color:#fffd01">avoid crosstalk</span> <span style="color:#fffd01">between</span> the <span style="color:#fffd01">channel</span>.**

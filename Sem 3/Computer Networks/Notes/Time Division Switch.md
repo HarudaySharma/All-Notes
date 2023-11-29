@@ -1,0 +1,4 @@
+- In a time division switch, a single communication path or channel is shared among multiple users or data streams by dividing time into discrete slots or intervals.
+- Each user or data stream is allocated a specific time slot during which they can transmit data.
+- TDS is commonly used in techniques like Time Division Multiplexing (TDM) and Time Division Multiple Access (TDMA).
+- TDS is often used in digital communication systems, such as digital telephony and digital data transmission.

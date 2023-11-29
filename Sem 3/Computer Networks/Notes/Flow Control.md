@@ -1,0 +1,3 @@
+- Flow control is the <mark style="background: #FF5582A6;">main functionality of the Data-link layer.</mark>
+- It is the <mark style="background: #BBFABBA6;">technique through which the constant data rate is maintained on both the sides so that no data get corrupted</mark>.
+- <mark style="background: #ABF7F7A6;">ensures that the transmitting station {such as a server} with higher processing speed </mark><mark style="background: #FFF3A3A6;">does not exceed the receiving station, with lower processing speed</mark>.

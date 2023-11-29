@@ -1,0 +1,1 @@
+A *DBMS* <span style="color:#00ffff">provides mechanisms</span> for <span style="color:#00ffff">backing up</span> and <span style="color:#00ffff">recovering</span> the <span style="color:#00ffff">data</span> in the *event of a <span style="color:#00ffff">system failure</span>.*

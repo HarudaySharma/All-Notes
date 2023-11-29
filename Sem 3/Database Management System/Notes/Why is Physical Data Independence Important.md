@@ -1,0 +1,3 @@
+Physical data independence is **<span style="color:#00ffff">important because</span>** :-
+- It ***<span style="color:#fffd01">allows</span>*** you to ***<span style="color:#fffd01">describe</span>*** the ***<span style="color:#fffd01">database logically</span>*** **<span style="color:#fffd01">without</span>** to ***<span style="color:#fffd01">identify physical structures</span>***.
+- It also **<span style="color:#fffd01">allows</span>** you to ***<span style="color:#fffd01">modify physical storage structures</span>*** or devices **<span style="color:#fffd01">without affecting</span>** the ***<span style="color:#fffd01">conceptual model</span>*** of **<span style="color:#fffd01">database</span>**.

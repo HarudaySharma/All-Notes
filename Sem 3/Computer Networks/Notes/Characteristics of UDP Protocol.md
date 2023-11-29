@@ -1,0 +1,9 @@
+ - It is a connectionless protocol.
+ - It is a stateless protocol.
+ - It is an unreliable protocol.
+ - It is a fast protocol.
+ - It offers the minimal transport service.
+ - It is almost a null protocol.
+ - It does not guarantee in order delivery.
+ - It does not provide congestion control mechanism. 
+ - It is a good protocol for data flowing in one direction.

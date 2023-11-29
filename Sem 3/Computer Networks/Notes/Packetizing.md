@@ -1,0 +1,2 @@
+- <mark style="background: #ADCCFFA6;">Network Layer receives the segments from the upper layer and converts them into packets</mark> *called packetizing.*
+- It is achieved by [[IP]].

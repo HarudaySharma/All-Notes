@@ -1,0 +1,3 @@
+- Sending a message to a particular group of people on WhatsApp.
+- Sending an email to a particular group of people.
+- Video conference or teleconference.

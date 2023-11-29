@@ -1,0 +1,1 @@
+The <span style="color:#00ffff">cost of purchasing</span>, <span style="color:#00ffff">maintaining</span> and <span style="color:#00ffff">upgrading</span> a <span style="color:#00ffff">DBMS</span> can be <span style="color:#00ffff">high</span>, especially *for large or complex systems.*

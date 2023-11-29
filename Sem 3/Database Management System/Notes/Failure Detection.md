@@ -1,0 +1,1 @@
+Detect the occurrence of a failure, which could be a system crash, power outage, or any other unexpected event.

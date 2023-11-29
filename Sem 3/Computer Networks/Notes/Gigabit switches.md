@@ -1,0 +1,1 @@
+These switches support ***Gigabit Ethernet speed***.

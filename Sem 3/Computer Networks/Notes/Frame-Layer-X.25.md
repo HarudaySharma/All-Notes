@@ -1,0 +1,5 @@
+- ***<span style="color:#00ffff">Data link layer</span>*** is ***<span style="color:#00ffff">known</span>*** as ***<span style="color:#00ffff">Frame layer</span>***.
+- At Data link layer, X.25 is ***<span style="color:#00ffff">responsible</span>*** for ***<span style="color:#00ffff">error detection</span>*** and ***<span style="color:#00ffff">correction</span>***, as well as ***<span style="color:#00ffff">flow control</span>***.
+- This ***<span style="color:#00ffff">ensures reliable data transmission</span>***.
+- X.25 ***<span style="color:#00ffff">defines</span>*** a ***<span style="color:#00ffff">protocol</span>*** called [[LAPB]], which is a ***<span style="color:#00ffff">bit-oriented protocol</span>*** used for ***<span style="color:#00ffff">data link communication</span>***.
+- ***<span style="color:#00ffff">LAPB</span>*** manages ***<span style="color:#00ffff">flow of data b/w devices</span>*** and ***<span style="color:#00ffff">provide error detection</span>*** and ***<span style="color:#00ffff">correction</span>***.

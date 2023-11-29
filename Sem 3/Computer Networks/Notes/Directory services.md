@@ -1,0 +1,1 @@
+	An application provides the distributed database sources and is used to provide that global information about various objects.

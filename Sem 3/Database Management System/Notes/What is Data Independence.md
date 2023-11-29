@@ -1,0 +1,2 @@
+- Data Independence is defined as a ***<span style="color:#00ffff">property of DBMS</span>***,
+	- That ***<span style="color:#fffd01">helps</span>*** you to ***<span style="color:#fffd01">change</span>*** the ***<span style="color:#fffd01">Database Schema at one level</span>*** of a database system ***<span style="color:#fffd01">without requiring</span>*** to ***<span style="color:#fffd01">change</span>*** the ***<span style="color:#fffd01">schema</span>*** at ***<span style="color:#fffd01">next higher level</span>***.

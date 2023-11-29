@@ -1,0 +1,1 @@
+monitor, keyboard, mouse and printer.

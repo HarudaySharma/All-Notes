@@ -1,0 +1,2 @@
+- When <span style="color:#00ff96">host on</span> the <span style="color:#00ff96">shared link</span> tries to <span style="color:#00ff96">transfer</span> the <span style="color:#00ff96">data</span>, it has a <span style="color:#00ff96">high probability</span> of <span style="color:#00ff96">collision</span>.
+- Data-link layer <span style="color:#00ff96">provides mechanism</span> such as <span style="color:#00ff96">CSMA/CD</span> to <span style="color:#00ff96">prevent</span> such <span style="color:#00ff96">collisions</span>.

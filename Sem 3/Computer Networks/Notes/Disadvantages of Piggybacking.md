@@ -1,0 +1,2 @@
+1. <span style="color:#00ffff">Additional complexity</span>.
+2. <span style="color:#00ffff">If</span> the <span style="color:#00ffff">data link layer</span> <span style="color:#00ffff">waits long before transmitting</span> the <span style="color:#00ffff">acknowledgment</span> (blocks the ACK for some time), the <span style="color:#00ffff">frame will rebroadcast</span>.

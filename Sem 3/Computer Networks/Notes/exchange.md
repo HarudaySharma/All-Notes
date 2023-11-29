@@ -1,0 +1,1 @@
+If one *device* wants to *send data* to another, it *sends* the data *to* the **controller** , and then **controller** *relays* the data *to* the other *connected device*.

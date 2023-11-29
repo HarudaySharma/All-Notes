@@ -1,0 +1,1 @@
+When every message travels along a dedicated line, only the intended recipient sees it.

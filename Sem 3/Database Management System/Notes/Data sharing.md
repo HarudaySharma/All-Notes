@@ -1,0 +1,1 @@
+A *DBMS* <span style="color:#00ffff">allows multiple users</span> to <span style="color:#00ffff">access</span> and share the <span style="color:#00ffff">same data</span>, which can be *useful in a collaborative work environment*.

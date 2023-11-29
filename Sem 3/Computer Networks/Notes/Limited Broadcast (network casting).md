@@ -1,0 +1,3 @@
+ - <span style="color:#00ffff">Transmitting</span> data from <span style="color:#00ffff">one source host</span> to <span style="color:#00ffff">all other hosts</span> residing <span style="color:#00ffff">in</span> the <span style="color:#00ffff">same network</span> is called as **<span style="color:#00ffff">limited broadcast</span>**.
+![[Pasted image 20231016183450.png]]
+#### [[Example Limited Broadcast (network casting)|Example]]

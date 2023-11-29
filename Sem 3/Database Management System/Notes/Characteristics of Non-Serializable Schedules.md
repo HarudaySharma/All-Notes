@@ -1,0 +1,2 @@
+- May or may not be consistent
+- May or may not be recoverable

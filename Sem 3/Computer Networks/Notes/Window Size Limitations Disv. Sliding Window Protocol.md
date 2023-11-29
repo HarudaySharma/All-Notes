@@ -1,0 +1,1 @@
+- The maximum size of the sliding window can be limited by the size of the receiver’s buffer or the available network resources, which can affect the overall performance of the protocol.

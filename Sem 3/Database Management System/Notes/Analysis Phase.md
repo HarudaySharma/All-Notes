@@ -1,0 +1,3 @@
+- Begin the recovery process by analyzing the log from the last checkpoint to the end.
+- Identify all transactions that were active at the time of the failure.
+- For each transaction, determine the last log record associated with it.

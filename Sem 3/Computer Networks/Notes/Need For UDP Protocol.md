@@ -1,0 +1,4 @@
+- TCP proves to be an overhead for certain kinds of applications.
+	- The Connection Establishment Phase, Connection Termination Phase etc of TCP are time consuming.
+- To avoid this overhead,
+	- certain applications which require fast speed and less overhead use UDP.

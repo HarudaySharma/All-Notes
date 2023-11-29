@@ -1,0 +1,1 @@
+ It is the size of data item allowed to lock.

@@ -1,0 +1,7 @@
+- The external level is ***<span style="color:#00ffff">concerned</span>*** with the ***<span style="color:#00ffff">individual users</span>***. 
+- **<span style="color:#00ffff">At</span>** the **<span style="color:#00ffff">external level</span>**, a <span style="color:#00ffff">database</span> ***<span style="color:#00ffff">contains several schemas</span>*** that are sometimes called ***<span style="color:#00ffff">subschema</span>***.
+	- The subschema is used to **<span style="color:#fffd01">describe</span>** the **<span style="color:#fffd01">different views</span>** of the **<span style="color:#fffd01">database</span>**. 
+- An external schema is ***<span style="color:#00ffff">also known</span>*** as a ***<span style="color:#00ffff">view schema</span>***. 
+- **<span style="color:#00ffff">Each view schema</span>** <span style="color:#fffd01">describes</span> <span style="color:#fffd01">different views</span> of <span style="color:#fffd01">database</span> so that a <span style="color:#fffd01">user</span> can <span style="color:#fffd01">view only</span> <span style="color:#fffd01">that part</span> of <span style="color:#fffd01">database</span> they are <span style="color:#fffd01">interested in</span> while <span style="color:#fffd01">hiding rest</span> of the <span style="color:#fffd01">database</span> from <span style="color:#fffd01">users</span>.
+
+![[Pasted image 20230913140457.png]]

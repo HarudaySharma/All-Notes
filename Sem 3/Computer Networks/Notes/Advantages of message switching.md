@@ -1,0 +1,4 @@
+- [Simplicity](simplicity-in-Message-switching)
+- [Message Integrity](Message-Integrity-in-Message-switching)
+- [Low Overhead](Low-Overhead-in-Message-switching)
+- [Sequential Processing](Sequential-Processing-in-Message-switching)

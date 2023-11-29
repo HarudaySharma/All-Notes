@@ -1,0 +1,1 @@
+Holds a single value.

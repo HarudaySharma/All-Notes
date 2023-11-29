@@ -1,0 +1,1 @@
+- If a ***<span style="color:#fffd01">message</span>*** is ***<span style="color:#fffd01">lost or corrupted</span>*** during ***<span style="color:#fffd01">transmission</span>***, the ***<span style="color:#fffd01">entire message</span>*** may need to be ***<span style="color:#fffd01">retransmitted</span>***.

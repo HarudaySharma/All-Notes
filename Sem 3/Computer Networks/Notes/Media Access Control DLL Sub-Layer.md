@@ -1,0 +1,2 @@
+- It deals with 
+	- actual <span style="color:#00ffff">control</span> of <span style="color:#00ffff">media</span>

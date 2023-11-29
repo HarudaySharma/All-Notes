@@ -1,0 +1,2 @@
+>[!cite] Rule 8
+>It states that <span style="color:#00ffff">any change</span> in the <span style="color:#00ffff">physical structure</span> of a database<span style="color:#00ffff"> must not have</span> any <span style="color:#00ffff">impact</span> on <span style="color:#00ffff">how</span> the <span style="color:#00ffff">data</span> is <span style="color:#00ffff">being accessed by external applications</span>.

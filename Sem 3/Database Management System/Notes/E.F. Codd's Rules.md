@@ -1,0 +1,18 @@
+Rules are as below :-
+
+0. [[Rule 0 - Foundation Rule]]
+ >[!check] 
+> 1. [[RULE 1 - Information Rule]]
+> 2. [[RULE 2 - Guaranteed Access Rule]] 
+>3. [[RULE 3 - Systematic treatment of nulls Rule]]
+4. [[RULE 4 - Active Online Catalog Rule]]
+5. [[RULE 5 - Data Sub Language Rule]]
+>[!check] 
+>6. [[RULE 6 - View Updating Rule]]
+7. [[RULE 7 - High level Insert, Update and Delete Rule]]
+>[!check] 
+>8. [[RULE 8 - Physical Data Independence Rule]]
+>9. [[RULE 9 - Logical Data Independence Rule]]
+10. [[RULE 10 - Integrity Independence Rule]]
+11. [[RULE 11 - Distribution Independence Rule]]
+12. [[RULE 12 - Non-Subversion Rule]]

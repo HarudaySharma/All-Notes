@@ -1,0 +1,3 @@
+- Data-link layer <span style="color:#00ffff">provides</span> <span style="color:#fffd01">layer-2 hardware addressing mechanism</span>.
+- <span style="color:#00ffff">Hardware address</span> is assumed to be <span style="color:#00ffff">unique</span> on the link.
+- It is <span style="color:#00ffff">encoded into hardware</span> at the <span style="color:#00ffff">time</span> of <span style="color:#00ffff">manufacturing.</span>

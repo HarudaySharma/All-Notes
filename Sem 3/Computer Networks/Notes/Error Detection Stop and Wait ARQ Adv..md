@@ -1,0 +1,3 @@
+- It uses using checksums or cyclic redundancy checks (CRC).
+- If an error is detected,
+	- the receiver sends a negative acknowledgment (NAK) to the sender, indicating that the data needs to be retransmitted.

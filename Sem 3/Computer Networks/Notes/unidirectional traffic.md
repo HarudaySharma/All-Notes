@@ -1,0 +1,1 @@
+ a break in the ring (such as a disabled station) can disable the entire network.

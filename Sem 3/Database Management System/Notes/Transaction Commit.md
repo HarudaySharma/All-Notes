@@ -1,0 +1,2 @@
+- After the undo and redo phases, mark the transactions as committed in the log.
+- This step ensures that the recovery process is complete and transactions are correctly reflected in the database

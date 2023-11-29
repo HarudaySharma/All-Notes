@@ -1,0 +1,1 @@
+- Each ***<span style="color:#00ffff">Row</span>*** in the relation is called a Tuple.

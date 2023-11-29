@@ -1,0 +1,1 @@
+The message is the information (data) to be communicated. Popular forms of information include text, numbers, pictures, audio, and video.

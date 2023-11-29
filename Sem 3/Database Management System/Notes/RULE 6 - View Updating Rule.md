@@ -1,0 +1,2 @@
+>[!cite] Rule 6
+>It states that <span style="color:#00ffff">when</span> the <span style="color:#00ffff">changes made in</span> the <span style="color:#00ffff">view</span>  they <span style="color:#00ffff">must be shown</span> in the <span style="color:#00ffff">base table</span>.

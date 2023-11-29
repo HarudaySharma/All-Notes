@@ -1,0 +1,1 @@
+- The protocol can be complex to implement and can require a lot of memory and processing power to operate efficiently.

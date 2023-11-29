@@ -1,0 +1,2 @@
+- Stop and Wait ARQ is vulnerable to channel noise, which can cause errors in the transmitted data.
+- This can result in frequent retransmissions and can impact the overall efficiency of the protocol

@@ -1,0 +1,9 @@
+- The *main advantage* of reservation is:
+	- high rates and low rates of data accessing time of the respective channel can be predicated easily.
+- Here time and rates are fixed.
+- Priorities can be set to provide speedier access from secondary. 
+- Predictable network performance:
+- Reduced contention
+- Quality of Service (QoS) support
+- Efficient use of bandwidth.
+- Support for multimedia applications.

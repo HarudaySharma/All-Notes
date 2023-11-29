@@ -1,0 +1,1 @@
+- It is a flexible technique and can be used with different types of network protocols and topologies, including wireless networks, Ethernet, and IP networks.

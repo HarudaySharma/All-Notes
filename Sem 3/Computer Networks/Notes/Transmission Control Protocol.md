@@ -1,0 +1,6 @@
+- t is a <mark style="background: #D2B3FFA6;">standard protocol that allows the systems to communicate over the internet</mark>.
+- It *establishes and maintains a connection between hosts*.
+- When ***data is sent over the TCP connection***,
+	- TCP <mark style="background: #FFB86CA6;">protocol divides the data into smaller units known as segments</mark>.
+	-<mark style="background: #FFB86CA6;"> Each segment travels over the internet using multiple routes</mark>, and <mark style="background: #BBFABBA6;">they arrive in different orders at the destination</mark>.
+	- Then <mark style="background: #FFB86CA6;">this protocol reorders the packets in the correct order at the receiving end</mark>.

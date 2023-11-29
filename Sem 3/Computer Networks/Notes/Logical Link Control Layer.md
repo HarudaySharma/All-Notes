@@ -1,0 +1,3 @@
+- It is ***responsible for transferring the packets to the Network layer of the receiver*** that is receiving.
+- It ***identifies the address of the network layer protocol*** from the *header*.
+- It also ***provides flow control***.

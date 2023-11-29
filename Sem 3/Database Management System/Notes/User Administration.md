@@ -1,0 +1,1 @@
+It helps in ***registering and <span style="color:#00ffff">monitoring users</span>***, enforcing *<span style="color:#00ffff">data security</span>, monitoring performance, <span style="color:#00ffff">maintaining data integrity</span>, dealing with <span style="color:#00ffff">concurrency control</span>*, and *recovering information corrupted by unexpected failure*.

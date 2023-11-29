@@ -1,0 +1,1 @@
+task is divided among several computers. Instead of  a single machine handling an entire task, each computer handles a *subset*.

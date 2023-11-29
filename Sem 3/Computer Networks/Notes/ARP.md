@@ -1,0 +1,2 @@
+- ARP stands for Address Resolution Protocol.
+- ARP is a network layer protocol which is used to find the physical address from the IP address. 

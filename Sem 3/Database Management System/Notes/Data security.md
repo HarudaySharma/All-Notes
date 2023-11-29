@@ -1,0 +1,1 @@
+A *DBMS* <span style="color:#00ffff">provides tools</span> for <span style="color:#00ffff">managing</span> the <span style="color:#00ffff">security</span> of the <span style="color:#00ffff">data</span>, such as *controlling access to the data and encrypting sensitive data*.

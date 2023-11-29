@@ -1,0 +1,1 @@
+It defines the way how network devices are arranged

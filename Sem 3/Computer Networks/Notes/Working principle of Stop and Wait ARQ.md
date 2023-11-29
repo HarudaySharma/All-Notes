@@ -1,0 +1,5 @@
+In stop and wait ARQ
+- <span style="color:#01ff07">Both</span> the <span style="color:#01ff07">sender</span> and the <span style="color:#01ff07">receiver</span> have <span style="color:#01ff07">windows</span> of the <span style="color:#01ff07">same size</span>.
+	- The <span style="color:#01ff07">window on</span> the <span style="color:#01ff07">sender's side covers</span> the <span style="color:#00ffcc">sequence</span> of <span style="color:#00ffcc">data packets</span> that are <span style="color:#00ffcc">sent</span> (or <span style="color:#00ffcc">to be sent</span>).
+	- The <span style="color:#01ff07">window on</span> the <span style="color:#01ff07">receiver's side covers</span> the <span style="color:#00ffcc">sequence</span> of <span style="color:#00ffcc">data packets</span> that are <span style="color:#00ffcc">received</span> (or <span style="color:#00ffcc">to be received</span>).
+##### *[[Example to visualize working of stop and wait ARQ]]*

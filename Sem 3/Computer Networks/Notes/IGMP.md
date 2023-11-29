@@ -1,0 +1,2 @@
+- It stands for <span style="color:#fffd01">Internet Group Message Protocol</span> (IGMP) 
+- It is used to <span style="color:#00ffff">facilitate</span> the <span style="color:#00ffff">simultaneous transmission</span> of a <span style="color:#00ffff">message</span> to a <span style="color:#00ffff">group of recipients</span>.

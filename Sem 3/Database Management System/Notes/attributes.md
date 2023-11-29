@@ -1,0 +1,1 @@
+Describes properties or characteristics of entities.

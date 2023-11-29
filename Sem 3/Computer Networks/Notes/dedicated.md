@@ -1,0 +1,1 @@
+term *dedicated means* that the ***link carries traffic only between the two devices it connects***.

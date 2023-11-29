@@ -1,0 +1,2 @@
+-  Error control is <mark style="background: #ADCCFFA6;">achieved by adding a calculated value</mark> [[CRC]] that is<mark style="background: #ADCCFFA6;"> placed to the Data link layer's trailer which is added to the message frame</mark> ***before it is sent to the physical layer.***
+- ***If any error seems to occur***, then the <mark style="background: #ADCCFFA6;">receiver sends the acknowledgment for the retransmission of the corrupted frames</mark>.

@@ -1,0 +1,1 @@
+- Means it requires only one operand.

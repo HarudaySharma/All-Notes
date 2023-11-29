@@ -1,0 +1,1 @@
+application layer ***provides the facility for email forwarding and storage***.

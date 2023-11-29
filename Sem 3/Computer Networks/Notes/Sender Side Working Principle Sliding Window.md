@@ -1,0 +1,6 @@
+ - The sequence number of the frame occupies a field in the frame. So, the sequence number should be kept to a minimum.
+ - The sequence number ranges from 0 to 2 k-1 if the frame header allows k bits.
+ - The sender maintains a list of sequence numbers that are only allowed to be sent by the sender.
+ - The sender window can only be 2 k-1 in size.
+ - For example, if the frame allows 4 bits, the window’s size is 2 raised to the power 4 - 1=((2^4)-1) =16-1=15.
+ - The sender has a buffer with the same size as the window.

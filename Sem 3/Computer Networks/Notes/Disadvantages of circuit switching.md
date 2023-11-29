@@ -1,0 +1,4 @@
+- Once a dedicated path is established <span style="color:#00ffff">other devices cannot use this path</span>.
+- Does <span style="color:#00ffff">not properly utilize system resources</span>.
+- Requires <span style="color:#00ffff">more bandwidth</span>
+- Takes <span style="color:#00ffff">long time to establish the connection.</span>

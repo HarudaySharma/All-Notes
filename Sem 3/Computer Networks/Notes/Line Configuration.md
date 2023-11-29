@@ -1,0 +1,1 @@
+ It defines the way how two or more devices can be connected physically.

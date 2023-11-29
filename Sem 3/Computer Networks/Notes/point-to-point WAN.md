@@ -1,0 +1,1 @@
+WAN that *act as a dial-up line* that ***connects a home computer to the Internet***.

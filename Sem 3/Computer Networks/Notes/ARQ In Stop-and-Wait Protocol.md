@@ -1,0 +1,2 @@
+- ARQ stands for <span style="color:#01ff07">Automatic Repeat Request</span>.
+- ARQ <span style="color:#01ff07">is</span> an <span style="color:#01ff07">error-control strategy</span> that <span style="color:#01ff07">ensures</span> that a <span style="color:#01ff07">data chunks </span>are <span style="color:#01ff07">delivered in order</span> and <span style="color:#01ff07">without</span> any <span style="color:#01ff07">error</span> or <span style="color:#01ff07">duplications</span>.

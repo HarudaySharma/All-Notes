@@ -1,0 +1,3 @@
+ - Stop and Wait ARQ does not utilize the available bandwidth efficiently, as the sender can transmit only one data packet at a time. 
+ - This results in underutilization of the channel,
+	 - which can be a problem in situations where the available bandwidth is limited.

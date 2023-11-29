@@ -1,0 +1,3 @@
+>It is a <span style="color:#00ffff">collection of interrelated data</span>, and that data <span style="color:#00ffff">could be in</span> the <span style="color:#00ffff">form</span> of *<span style="color:#00ffff">Tables</span>, <span style="color:#00ffff">views</span>, <span style="color:#00ffff">schemas</span>, <span style="color:#00ffff">reports</span>, etc.*
+>>*for e.g.* 
+>>a <span style="color:#fffd01">university database</span> <span style="color:#fffd01">organizes</span> the <span style="color:#fffd01">data about students</span>, <span style="color:#fffd01">faculty</span>, <span style="color:#fffd01">admin staff</span>, etc.

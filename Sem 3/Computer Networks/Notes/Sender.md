@@ -1,0 +1,1 @@
+The sender is the device that sends the data message. It can be a computer, workstation, telephone handset, video camera, and so on.

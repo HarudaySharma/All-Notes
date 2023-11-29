@@ -1,0 +1,2 @@
+>[!cite] Rule 2
+>It states that <span style="color:#00ffff">every value in</span> the <span style="color:#00ffff">database</span> must be <span style="color:#00ffff">accessed in</span> the <span style="color:#00ffff">combination</span> of <span style="color:#00ffff">Table name</span>, <span style="color:#00ffff">Primary Key</span> and <span style="color:#00ffff">Column name</span>.

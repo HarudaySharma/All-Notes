@@ -1,0 +1,1 @@
+A *DBMS* *allows* for the <span style="color:#00ffff">organization</span> and <span style="color:#00ffff">storage</span> of <span style="color:#00ffff">data</span> in a <span style="color:#00ffff">structured manner</span>, making it easy to retrieve and query the data as needed.

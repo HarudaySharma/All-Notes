@@ -1,0 +1,1 @@
+- It is the ***<span style="color:#00ffff">Number of Attributes</span>*** in a relation.

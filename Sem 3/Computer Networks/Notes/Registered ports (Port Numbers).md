@@ -1,0 +1,3 @@
+- Ports ranging from 1024 to 49,151 
+- Not assigned or controlled by [[IANA]].
+- They can only be registered with [[IANA]] to prevent duplication.

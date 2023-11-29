@@ -1,0 +1,5 @@
+- It provides a connection-oriented reliable service, which means that it guarantees the delivery of data packets.
+	- If the data packet is lost across the network, then the TCP will resend the lost packets.
+- It provides a flow control mechanism using a sliding window protocol.
+- It provides error detection by using checksum and error control by using Go Back or ARP protocol. 
+- It eliminates the congestion by using a network congestion avoidance algorithm that includes various schemes such as additive increase/multiplicative decrease (AIMD), slow start, and congestion window.

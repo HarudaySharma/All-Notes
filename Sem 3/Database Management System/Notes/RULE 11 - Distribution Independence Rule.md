@@ -1,0 +1,1 @@
+>The end-user must not be able to see that the data is distributed over various locations. Users should always get the impression that the data is located at one site only.

@@ -1,0 +1,2 @@
+- "Throughput is number of transaction executed in a given amount of time."
+	- The transaction consists of many steps. The CPU and the I/O system can operate in parallel. The parallelism of the CPU and the I/O system can therefore be exploited to run multiple transactions in parallel. If one transaction is reading or writing data on disk, another can be running in the CPU. Thus the processor and disk spend less time idle.

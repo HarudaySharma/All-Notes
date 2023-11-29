@@ -1,0 +1,2 @@
+>[!cite] Rule 9
+>The<span style="color:#00ffff"> logical data</span> in a <span style="color:#00ffff">database</span> <span style="color:#00ffff">must be independent</span> of its users view (application). <span style="color:#00ffff">Any change</span> in <span style="color:#00ffff">logical data</span> <span style="color:#00ffff">must not affect </span>the <span style="color:#00ffff">applications using it</span>.

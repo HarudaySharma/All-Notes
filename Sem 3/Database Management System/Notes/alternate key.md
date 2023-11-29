@@ -1,0 +1,1 @@
+- All the ***<span style="color:#fffd01">candidate keys</span>*** which are ***<span style="color:#fffd01">not primary key</span>*** are called ***<span style="color:#fffd01">alternate key</span>***.

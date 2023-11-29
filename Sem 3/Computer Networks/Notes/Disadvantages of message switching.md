@@ -1,0 +1,5 @@
+- [Inefficiency](Inefficiency-in-Message-switching)
+- [Latency](Latency-in-Message-switching)
+- [Scalability](Scalability-in-Message-switching)
+- [Lack of error recovery](Lack-of-error-recovery-in-Message-switching)
+- [Resource allocation](Resource-allocation-in-Message-switching)

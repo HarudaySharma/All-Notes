@@ -1,0 +1,2 @@
+It <span style="color:#00ffff">shows inefficiency</span> in terms of <span style="color:#00ffff">network resource utilization</span> :
+- It <span style="color:#fffd01">ties up network resources</span> for the <span style="color:#fffd01">entire duration of the message transfer</span>, which can be a <span style="color:#fffd01">long time</span>, leading to <span style="color:#fffd01">resource underutilization</span>.

@@ -1,0 +1,4 @@
+ - UDP is short for User Datagram Protocol.
+ - It is the simplest transport layer protocol.
+ - It has been designed to send data packets over the Internet.
+ - It simply takes the datagram from the network layer, attaches its header and sends it to the user.

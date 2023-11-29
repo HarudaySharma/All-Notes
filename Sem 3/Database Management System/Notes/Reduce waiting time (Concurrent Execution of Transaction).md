@@ -1,0 +1,2 @@
+- If transaction run serially, a short transaction may have to wait for a preceding long transaction to compete, which can lead to unpredictable delays in running a transaction.
+	- Concurrent execution reduces the unpredictable delays in running transaction.

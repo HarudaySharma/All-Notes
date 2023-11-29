@@ -1,0 +1,2 @@
+- The Data link layer <mark style="background: #D2B3FFA6;">adds a header to the frame that contains a destination address</mark>.
+- The <mark style="background: #D2B3FFA6;">frame is transmitted to the destination address mentioned in the header</mark>.

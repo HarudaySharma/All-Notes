@@ -1,0 +1,1 @@
+It helps in the *<span style="color:#00ffff">insertion</span>, <span style="color:#00ffff">modification</span>,* and *<span style="color:#00ffff">deletion</span>* ***of <span style="color:#00ffff">actual data</span>*** *in* the *<span style="color:#00ffff">database</span>*. 

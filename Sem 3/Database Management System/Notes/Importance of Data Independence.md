@@ -1,0 +1,7 @@
+- ***<span style="color:#01ff07">Helps</span>*** you to ***<span style="color:#01ff07">improve</span>*** the ***<span style="color:#01ff07">quality</span>*** of the ***<span style="color:#01ff07">data</span>***.
+- Database ***<span style="color:#01ff07">system maintenance</span>*** becomes ***<span style="color:#01ff07">affordable</span>***.
+- ***<span style="color:#01ff07">Enforcement</span>*** of ***<span style="color:#01ff07">standards</span>*** and ***<span style="color:#01ff07">improvement</span>*** in ***<span style="color:#01ff07">database security</span>***.
+- You ***<span style="color:#01ff07">don't need</span>*** to ***<span style="color:#01ff07">alter data structure</span>*** in ***<span style="color:#01ff07">application programs</span>***.
+- ***<span style="color:#01ff07">Permit developers</span>*** to ***<span style="color:#01ff07">focus on</span>*** the ***<span style="color:#01ff07">general structure</span>*** of the **<span style="color:#01ff07">Database</span>** rather than ***<span style="color:#01ff07">worrying about</span>*** the ***<span style="color:#01ff07">internal implementation</span>***
+- It ***<span style="color:#01ff07">allows you</span>*** to <span style="color:#01ff07">improve a state which is</span> **<span style="color:#01ff07">undamaged</span>** or **<span style="color:#01ff07">undivided</span>**.
+- Database ***<span style="color:#01ff07">inconsistency</span>*** is ***<span style="color:#01ff07">vastly reduced</span>***.

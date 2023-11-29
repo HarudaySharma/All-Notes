@@ -1,0 +1,3 @@
+- The protocol ensures reliable delivery of data,
+	- By requiring the receiver to acknowledge receipt of each packet before the next packet can be transmitted.
+	- This helps to avoid data loss or corruption during transmission

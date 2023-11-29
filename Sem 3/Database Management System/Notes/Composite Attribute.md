@@ -1,0 +1,2 @@
+- Composed of multiple simple attributes.
+- *Example:* "Full Name" (First Name, Last Name).

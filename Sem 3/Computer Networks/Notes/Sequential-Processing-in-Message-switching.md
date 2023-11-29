@@ -1,0 +1,2 @@
+Messages are <span style="color:#00ffff">processed sequentially</span> :
+- Can be <span style="color:#00ffff">advantageous</span> in some <span style="color:#00ffff">applications</span> where the <span style="color:#00ffff">order of messages is critical</span>.

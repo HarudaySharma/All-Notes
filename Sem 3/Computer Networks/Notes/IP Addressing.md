@@ -1,0 +1,2 @@
+- This protocol implements logical host addresses known as IP addresses.
+- The IP addresses are used by the internet and higher layers to identify the device and to provide internetwork routing.

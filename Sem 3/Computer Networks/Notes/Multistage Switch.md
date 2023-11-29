@@ -1,0 +1,3 @@
+- It is *<span style="color:#00ffff">made by splitting the crossbar switch</span>* into <span style="color:#00ffff">smaller units</span> and then *<span style="color:#00ffff">interconnecting them</span>*.
+- It ***<span style="color:#00ffff">reduces</span>*** the number of crosspoints.
+- If *<span style="color:#00ffff">one path fails</span>*, there is *<span style="color:#00ffff">availability of another path</span>*.

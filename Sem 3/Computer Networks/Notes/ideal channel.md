@@ -1,0 +1,1 @@
+A channel through which transmission can never go wrong.

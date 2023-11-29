@@ -1,0 +1,1 @@
+- An attribute, that is not a part of the prime key, is said to be a non-prime attribute.

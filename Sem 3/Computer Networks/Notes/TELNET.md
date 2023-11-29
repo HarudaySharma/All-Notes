@@ -1,0 +1,2 @@
+- It is an abbreviation for Terminal Network.
+- It establishes the connection between the local computer and remote computer in such a way that the local terminal appears to be a terminal at the remote system.

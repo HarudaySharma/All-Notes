@@ -1,0 +1,3 @@
+- SMTP stands for Simple mail transfer protocol.
+- The TCP/IP protocol that supports the e-mail is known as a Simple mail transfer protocol.
+- This protocol is used to send the data to another e-mail address.

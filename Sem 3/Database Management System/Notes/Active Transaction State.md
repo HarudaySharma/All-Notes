@@ -1,0 +1,2 @@
+- The initial state,
+	- Transaction stays in this state while it is executing

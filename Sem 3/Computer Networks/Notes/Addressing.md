@@ -1,0 +1,2 @@
+- A <mark style="background: #ADCCFFA6;">Network layer adds the source and destination address to the header of the frame</mark>.
+- Addressing is **used to identify the device on the internet**.

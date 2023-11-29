@@ -1,0 +1,1 @@
+When *two or more devices are connected to the same communication channel*, then the <mark style="background: #ADCCFFA6;">data link layer protocols are used to determine which device has control over the link at a given time.</mark>

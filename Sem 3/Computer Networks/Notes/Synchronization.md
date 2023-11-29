@@ -1,0 +1,2 @@
+- Session layer *adds some checkpoints when transmitting the data in a sequence*.
+- If some *error occurs* in the middle of the transmission of data, then the *transmission will take place again from the checkpoint*. known as ***Synchronization and Recovery***.

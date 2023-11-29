@@ -1,0 +1,2 @@
+- Stop and Wait ARQ has limited error recovery capabilities.
+- If a data packet is lost or corrupted, the sender must retransmit the entire packet, which can be time-consuming and can result in further delays.

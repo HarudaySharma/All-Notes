@@ -1,0 +1,1 @@
+- The ***<span style="color:#00ffff">Number of Tuples</span>*** in a relation.

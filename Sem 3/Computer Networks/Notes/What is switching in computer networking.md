@@ -1,0 +1,1 @@
+Switching is the process of ***<span style="color:#00ffff">forwarding data packets</span>*** from ***<span style="color:#00ffff">one network to another based on the destination address</span>*** in the packet.

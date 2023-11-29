@@ -1,0 +1,2 @@
+- Stop and Wait ARQ has low efficiency as it requires the sender to wait for an acknowledgment from the receiver before sending the next data packet. 
+- This results in a low data transmission rate, especially for large data sets.

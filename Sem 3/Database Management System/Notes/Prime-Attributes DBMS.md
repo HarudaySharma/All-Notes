@@ -1,0 +1,1 @@
+- an attribute, that is a part of the prime key, is known as a prime attribute.

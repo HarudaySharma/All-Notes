@@ -1,0 +1,1 @@
+the elapsed time between an inquiry and a response

@@ -1,0 +1,2 @@
+- Timestamp-based protocols in dbms may not be cascade free or recoverable.
+- In timestamp based protocol in dbms there is a possibility of starvation of long transactions if a sequence of conflicting short transactions causes repeated restarting of the long transaction.

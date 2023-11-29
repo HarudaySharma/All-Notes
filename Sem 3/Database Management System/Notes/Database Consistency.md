@@ -1,0 +1,1 @@
+Ensure that the database is consistent and reflects the state it was in at the time of the last checkpoint.

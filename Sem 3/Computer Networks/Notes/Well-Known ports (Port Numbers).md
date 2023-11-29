@@ -1,0 +1,2 @@
+- Ports ranging from 0 to 1023
+- Assigned and controlled by IANA.

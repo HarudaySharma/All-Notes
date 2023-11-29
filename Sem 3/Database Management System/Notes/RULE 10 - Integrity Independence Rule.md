@@ -1,0 +1,1 @@
+>A database must be independent of the application that uses it. All its integrity constraints can be independently modified without the need of any change in the application.

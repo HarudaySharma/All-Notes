@@ -1,0 +1,2 @@
+- An <mark style="background: #ADCCFFA6;">internetworking is the main responsibility of the network layer</mark>.
+- It **provides a logical connection between different devices**.

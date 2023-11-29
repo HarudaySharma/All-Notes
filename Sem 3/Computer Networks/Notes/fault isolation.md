@@ -1,0 +1,1 @@
+ This facility **enables** the ***network manager*** to *discover the **precise location** of the fault* and aids in **finding** its *cause and solution*.

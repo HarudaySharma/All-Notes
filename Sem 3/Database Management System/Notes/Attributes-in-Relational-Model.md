@@ -1,0 +1,1 @@
+- Attributes are ***<span style="color:#00ffff">properties</span>*** that ***<span style="color:#00ffff">define a relation</span>***.

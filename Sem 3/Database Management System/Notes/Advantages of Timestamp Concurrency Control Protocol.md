@@ -1,0 +1,4 @@
+- Timestamp-based protocols in dbms ensure serializability as the transaction is ordered on their creation timestamp. 
+- No deadlock occurs when timestamp ordering protocol is used as no transaction waits.
+- No older transaction waits for a longer period of time so the protocol is free from deadlock.
+- Timestamp based protocol in dbms ensures that there are no conflicting items in the transaction execution.

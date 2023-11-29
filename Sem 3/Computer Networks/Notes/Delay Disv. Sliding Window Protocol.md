@@ -1,0 +1,3 @@
+- The protocol can introduce a delay in the transmission of data,
+	- As each packet must be acknowledged before the next packet can be transmitted.
+	- This delay can increase the overall latency of the network.

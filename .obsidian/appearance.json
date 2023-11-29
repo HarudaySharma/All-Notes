@@ -1,0 +1,11 @@
+{
+  "accentColor": "#ff0000",
+  "theme": "moonstone",
+  "baseFontSize": 24,
+  "translucency": true,
+  "enabledCssSnippets": [
+    "checkbox",
+    "extended-colorschemes"
+  ],
+  "cssTheme": "AnuPpuccin"
+}
