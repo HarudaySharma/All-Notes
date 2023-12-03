@@ -1,2 +1,2 @@
-- Checkpoint is a mechanism of compressing the transaction log file by transferring the old transactions to permanent storage.
-- The checkpoint marks the position till where the consistency of the transactions is maintained.
+- Checkpoint is a **mechanism** of *compressing* the *transaction log file* by <u>*transferring*</u> the **old transactions to permanent storage**.
+- The *checkpoint marks* the *position till* *where* the **consistency** of the *transactions* is *maintained*.

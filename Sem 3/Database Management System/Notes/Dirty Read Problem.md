@@ -4,5 +4,5 @@
 >[!note] 
 >- Dirty read does not lead to inconsistency always.
 >- It becomes problematic only when the uncommitted transaction fails and roll backs later due to some reason.
-#####  *[[Example of Dirty read|Example]] 
+#####  *[[Example of Dirty read|Example]] *
 

@@ -10,5 +10,5 @@
 
 *Let's Start !!*
 
-[[Sem 3/Database Management System/Notes/Basics|Basics]] 
+[[Sem 3/Database Management System/Notes/Page of Contents|Page of Contents]] 
 

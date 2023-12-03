@@ -1,1 +1,2 @@
-- After the final statement has been executed.
+In this state
+- *After* the **final statement** has been *executed*.

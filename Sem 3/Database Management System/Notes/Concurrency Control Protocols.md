@@ -5,6 +5,3 @@ The concurrency control *protocols ensure* the **atomicity**, **consistency**, 
 ##### *2. [[Time Stamp Concurrency Control Protocol]]*
 ##### *3. Validation Based Concurrency Control Protocol*
 
-
-
-

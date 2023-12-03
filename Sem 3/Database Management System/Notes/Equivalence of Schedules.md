@@ -1,5 +1,5 @@
-*In DBMS,
-	Schedules may have the following three different kinds of equivalence relations among them :-*
+In DBMS,
+	Schedules may have the following *three different kinds* of *equivalence relations* among them :-
 
 ![[Pasted image 20231124061942.png]]
 

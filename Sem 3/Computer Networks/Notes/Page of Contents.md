@@ -33,9 +33,7 @@ the parties creating and using the data.
 ---
 ### *Data Representation :*
 
-Data can be represented in different forms, some of the most common form of data seen nowadays are ***text, numbers, images, audio and video***.
-
-
+#### [[Ways in which data can be represented]]
 ---
 ### *Data Flow :*
 

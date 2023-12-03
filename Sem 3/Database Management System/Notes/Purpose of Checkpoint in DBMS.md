@@ -1,4 +1,4 @@
-Checkpoint come into the picture when the size of the transaction log file becomes too large to manage and handle easily.
+Checkpoint *come into* the *picture* when the *size* of the *transaction log file* becomes **too large** to manage and handle easily.
 
 During the execution of the transactions, the curser passes through the marked checkpoint.
 *At that point*,

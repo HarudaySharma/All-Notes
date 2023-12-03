@@ -1,8 +1,8 @@
-Log-based recovery in DBMS provides the ability to maintain or recover data in case of system failure.
+**Log-based recovery** in DBMS *provides* the <u>*ability to maintain*</u> or <u>*recover data*</u> in case of *<u>system failure</u>*.
 
 *A log file will be created for every operation performed on the database at that point.*
-	-> [[What is a log(DBMS)|What is a log?]]
-	-> [[How to perform Log-Based Recovery in DBMS]]
+- [[What is a log(DBMS)|What is a log?]]
+- [[How to perform Log-Based Recovery in DBMS]]
 
 ---
 #### Steps of log based recovery :-

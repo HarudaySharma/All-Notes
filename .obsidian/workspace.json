@@ -4,17 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "7996254900f4d144",
+        "id": "02ea1d9746f5c0d9",
         "type": "tabs",
         "children": [
           {
-            "id": "7b5af13a3cb5d713",
+            "id": "8bc4c2c811e3c6d5",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Sem 3/Database Management System/Notes/Basics.md",
-                "mode": "source",
+                "file": "Sem 3/Database Management System/Notes/Page of Contents.md",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "head",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -65,12 +65,12 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 287
+    "width": 287,
+    "collapsed": true
   },
   "right": {
     "id": "8d4f179bdce6ece6",
@@ -80,6 +80,16 @@
         "id": "3d858c577f314b5c",
         "type": "tabs",
         "children": [
+          {
+            "id": "5d3e3ce5aa087fb5",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Sem 3/Database Management System/Notes/Page of Contents.md"
+              }
+            }
+          },
           {
             "id": "7b3d1e0640e1312a",
             "type": "leaf",
@@ -94,7 +104,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Sem 3/Database Management System/Notes/Basics.md",
+                "file": "Sem 3/Database Management System/Notes/Page of Contents.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +121,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Sem 3/Database Management System/Notes/Basics.md",
+                "file": "Sem 3/Database Management System/Notes/Page of Contents.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,22 +149,12 @@
             }
           },
           {
-            "id": "5d3e3ce5aa087fb5",
-            "type": "leaf",
-            "state": {
-              "type": "outline",
-              "state": {
-                "file": "Sem 3/Database Management System/Notes/Basics.md"
-              }
-            }
-          },
-          {
             "id": "d2a96f24933b63f1",
             "type": "leaf",
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Sem 3/Database Management System/Notes/Basics.md"
+                "file": "Sem 3/Database Management System/Notes/Page of Contents.md"
               }
             }
           },
@@ -170,8 +170,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 232.5,
-    "collapsed": true
+    "width": 326
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -186,54 +185,54 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "eb1964b24bdfcc62",
+  "active": "8bc4c2c811e3c6d5",
   "lastOpenFiles": [
-    "Sem 3/Database Management System/Notes/Set Difference (-).md",
-    "Sem 3/Database Management System/Notes/Basics.md",
-    "Sem 3/Computer Networks/Notes/Basics.md",
-    "Sem 3/Mathematics/Maths-revision-finals.md",
-    "2023-08-11.md",
-    "2023-09-12.md",
-    "2023-09-13.md",
-    "2023-10-10.md",
-    "2023-10-11.md",
-    "GDSC Interview.md",
-    "README.md",
-    "Sem 3/Mathematics/Paths and Circuit/theorem-3-Complete-Bi-paritite(EP & EC).md",
-    "Sem 3/Mathematics/Paths and Circuit/theorem-1-EP.md",
-    "Sem 3/Mathematics/Paths and Circuit/Euler's path and Circuit-CTM.md",
-    "Sem 3/Mathematics/Paths and Circuit/Eulerian Path and Circuit.md",
-    "Sem 3/Mathematics/Paths and Circuit/theorem-2-EC.md",
-    "Sem 3/Mathematics/Paths and Circuit/Question (Euler's Path and Circuit).md",
-    "Sem 3/Mathematics/Paths and Circuit/Fleury's Algorithm(Euler's Path).md",
-    "Sem 3/Mathematics/Paths and Circuit/Walk, Trail and Path.md",
-    "Sem 3/Mathematics/Trees/Eccentricity and Center of Tree.md",
-    "Sem 3/Mathematics/Trees/Questions on Trees(Trees-03).md",
-    "Sem 3/Mathematics/Trees/Properties of Trees(Trees-02).md",
-    "Sem 3/Mathematics/Trees/Trees and Its Properties.md",
+    "Sem 3/Database Management System/Notes/Transaction State.md",
+    "Sem 3/Database Management System/Notes/Page of Contents.md",
+    "Sem 3/Database Management System/Notes/Data Definition.md",
+    "Sem 3/Database Management System/Notes/Concurrency Control.md",
+    "Sem 3/Database Management System/Notes/Multiple Granularity.md",
+    "Sem 3/Database Management System/Notes/Concurrency Control Protocols.md",
+    "Sem 3/Database Management System/Notes/Lock Based Concurrency Control Protocol.md",
+    "Sem 3/Database Management System/Notes/Problems in Concurrency Control.md",
+    "Sem 3/Database Management System/Notes/Phantom Read Problem.md",
+    "Sem 3/Database Management System/Notes/Example of Phantom Read Problem.md",
+    "Sem 3/Database Management System/Notes/Example of Lost Update Problem.md",
+    "Sem 3/Database Management System/Notes/Unrepeatable Read Problem.md",
+    "Sem 3/Database Management System/Notes/Dirty Read Problem.md",
+    "Sem 3/Database Management System/Notes/Example of Dirty read.md",
+    "Sem 3/Database Management System/Notes/Why the read is called Dirty read.md",
+    "Sem 3/Database Management System/Notes/Why we need Concurrency Control.md",
+    "Sem 3/Database Management System/Notes/The Unrepeatable Read Problem (RW conflicts)..md",
+    "Sem 3/Database Management System/Notes/Example of Unrepeatable read problem.md",
+    "Sem 3/Database Management System/Notes/The Incorrect Summary Problem (RW conflicts)..md",
+    "Sem 3/Database Management System/Notes/The Temporary Update (or Dirty Read) Problem  (WR conflicts).md",
+    "Sem 3/Database Management System/Notes/Lost Update Problem (WW conflicts)..md",
+    "Sem 3/Database Management System/Notes/What is Concurrency control.md",
+    "Sem 3/Database Management System/Notes/Recoverability.md",
+    "Sem 3/Database Management System/Notes/Techniques of Recovery.md",
+    "Sem 3/Database Management System/Notes/Log Based Recovery (Recovery Techniques).md",
+    "Sem 3/Database Management System/Notes/Deferred Vs Immediate Update.md",
+    "Sem 3/Resource Cluster/Pasted Image 20231203054446_607.png",
+    "Sem 3/Resource Cluster/Pasted Image 20231203053746_569.png",
+    "Sem 3/Database Management System/Resource Bank/DBMS-1-Tier-Architecture.webp",
+    "Sem 3/Resource Cluster/Pasted Image 20231202183712_503.png",
+    "Sem 3/Resource Cluster/Pasted Image 20231202182412_461.png",
+    "Sem 3/Resource Cluster/Pasted Image 20231202181912_497.png",
+    "Sem 3/Resource Cluster/Pasted Image 20231202180912_467.png",
+    "Sem 3/Resource Cluster/Pasted Image 20231202180512_467.png",
+    "Sem 3/Resource Cluster/Pasted Image 20231202173912_459.png",
+    "Sem 3/Resource Cluster",
     "Sem 3/Mathematics/Paths and Circuit",
     "Sem 3/Mathematics/Trees",
-    "Sem 3/Mathematics/Paths and Circuit/Section-A10(Hamilton Path and Circuit).md",
     "Excalidraw/Scripts/Downloaded/Auto Layout.svg",
-    "Excalidraw/Scripts/Downloaded/Auto Layout.md",
-    "Sem 3/Mathematics/Paths and Circuit/theorem-1-HP.md",
-    "Excalidraw/Scripts/Downloaded/Hardware Eraser Support.svg",
-    "Excalidraw/Scripts/Downloaded/Rename Image.svg",
-    "Excalidraw/Scripts/Downloaded/Auto Draw for Pen.svg",
-    "Excalidraw/Scripts/Downloaded/Box Selected Elements.svg",
-    "Excalidraw/Scripts/Downloaded/PDF Page Text to Clipboard.svg",
-    "Excalidraw/Scripts/Downloaded/Set Grid.svg",
     "Sem 3/Mathematics",
-    "Sem 3/Database Management System/Resource Bank/Pasted image 20231127111426.png",
-    "Sem 3/Database Management System/Resource Bank/Pasted image 20231123063902.png",
-    "Sem 3/Database Management System/Resource Bank/Pasted image 20231124043316.png",
     "Sem 3/Database Management System/Notes/Concurrency Protocols",
     "Concurrency Protocols",
     "Sem 3/Computer Networks/Resource Bank/Numericals+IP.pdf",
     "Sem 3/Database Management System/Resource Bank/lu341647qz.tmp",
     "Serial Schedules (Schedules",
     "Excalidraw/Scripts/Downloaded",
-    "Excalidraw/Scripts",
     "Untitled.canvas"
   ]
 }

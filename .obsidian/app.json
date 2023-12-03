@@ -11,5 +11,8 @@
     "downscalePercent": 100
   },
   "spellcheck": false,
-  "propertiesInDocument": "source"
+  "propertiesInDocument": "source",
+  "defaultViewMode": "source",
+  "showLineNumber": false,
+  "showUnsupportedFiles": true
 }
