@@ -8,7 +8,7 @@
 - Use the after-images recorded in the log to reapply the changes.
 
 >[!example]
->Updates all data items updated by transaction Ti with their new values. Undoing a T requires the log to contain both the record `<start>` and the record `<commit>`.
+>Updates all data items updated by transaction Ti with their new values. Redoing a T requires the log to contain both the record `<start>` and the record `<commit>`.
 >![[Pasted image 20231126155312.png]]
 
 

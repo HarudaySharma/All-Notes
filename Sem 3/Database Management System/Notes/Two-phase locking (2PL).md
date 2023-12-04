@@ -6,7 +6,7 @@ The two-phase locking protocol divides the **execution** phase *of* the *transac
 	- when the *execution* of the transaction *starts*, it **seeks permission** for the **lock it requires**.
 - In the **second part**,
 	- The transaction **acquires** *all* the *locks*.
-	- The *third phase* is *started* as *soon* as the *transaction releases* its *first lock*.
+	- The *third phase* is *started* as *soon* as the *transaction releases* its *first lock*. (==locks will be released as soon as the operations for them gets executed==).
 - In the **third part**,
 	- the transaction **cannot demand** any *new locks*. It **only releases** the *acquired locks*.
 

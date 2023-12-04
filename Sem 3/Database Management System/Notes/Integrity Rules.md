@@ -1,5 +1,5 @@
 - Integrity rules refers to reliability, validity, and authority towards the data.
-- They are ***<span style="color:#00ffff">used to ensure</span>*** ***<span style="color:#fffd01">data quality</span>*** and ***<span style="color:#fffd01">consistency</span>*** in a ***<span style="color:#00ffff">database</span>***.
+- They are rules implemented ***<span style="color:#00ffff">to ensure</span>*** ***<span style="color:#fffd01">data quality</span>*** and ***<span style="color:#fffd01">consistency</span>*** in a ***<span style="color:#00ffff">database</span>***.
 
 #### *Types of Integrity Rules / Constraints* :
 
