@@ -1,2 +1,2 @@
 - FTP stands for File Transfer Protocol.
-- It is a standard internet protocol used for transmitting the files from one computer to another computer.
+- It is a standard internet protocol used for transmitting the files from one host to another.

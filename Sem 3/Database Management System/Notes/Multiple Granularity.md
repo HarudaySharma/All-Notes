@@ -1,4 +1,4 @@
-Multiple [[Granularity]] can be defined as hierarchically breaking up the database into blocks which can be locked.
+Multiple [[Granularity]] can be *defined* as **hierarchically breaking** up the database **into** **blocks** which *can be*  *locked*.
 
 - The Multiple Granularity protocol enhances concurrency and reduces lock overhead.
 - It maintains the track of what to lock and how to lock.

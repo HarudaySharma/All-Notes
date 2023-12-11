@@ -14,9 +14,9 @@
 >	- it <span style="color:#fffd01">retransmits</span> the <span style="color:#fffd01">frame</span> <span style="color:#fffd01">until all</span> the <span style="color:#fffd01">data</span> are <span style="color:#fffd01">successfully transmitted</span> to the <span style="color:#fffd01">receiver</span>.
 
 >[!important] *formulae* 
->1. The <span style="color:#fffd01">total vulnerable time</span> of pure Aloha is **<span style="color:#ff00ff">2 * Tfr</span>** (Tfr = Avg. Transmission time).
+>1. The <span style="color:#fffd01">total vulnerable time</span> of pure Aloha is **<span style="color:#ff00ff">$(2 \times Tfr)$</span>** $(Tfr = Avg. Transmission\space time)$.
 >2. <span style="color:#fffd01">Maximum throughput</span> occurs when **<span style="color:#ff00ff">G = 1/ 2</span>** that is **<span style="color:#ff00ff">18.4%</span>**.
->3. Successful transmission of data frame (<span style="color:#fffd01">Efficiency</span>) is **<span style="color:#ff00ff">S = G*e^(-2G)</span>**.
+>3. Successful transmission of data frame (<span style="color:#fffd01">Efficiency</span>) is **<span style="color:#ff00ff">$(S = G\times e^{-2G})$ </span>**.
 
 #### *[[Working of Pure Aloha]]*
 

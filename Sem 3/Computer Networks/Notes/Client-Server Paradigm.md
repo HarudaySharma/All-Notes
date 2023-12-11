@@ -1,8 +1,9 @@
-- A process on the local host, called a client, needs services from a process usually on the remote host, called a server.
-- Both processes (client and server) have the same name.
+- A *process* on the **local host** (***client***), *needs services* from a *process* usually on the **remote host** (***server***).
+- *Both* processes (on client and server) have the **same name**.
 
 >[!example] *For example* 
->- to get the day and time from a remote machine, 
->	- we need a Daytime client process running on the local host and a Daytime server process running on a remote machine.
+>- to *get* the **day** and **time** from a *remote machine*, 
+>	- we *need* a <u>Daytime</u> **client process** running *on* the <u>*local host*</u> and
+>	- a <u>Daytime</u> **server process** running *on* a <u>*remote machine*</u>.
 
 ![[Pasted image 20231120163106.png]]

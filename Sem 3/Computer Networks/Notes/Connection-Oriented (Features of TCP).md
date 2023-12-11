@@ -1,3 +1,3 @@
--  the data exchange occurs only after the connection establishment.
-- When the data transfer is completed,
-	- then the connection will get terminated.
+-  the data *exchange occurs* **only** *after* the **connection establishment**.
+- When the data *transfer* is *completed*,
+	- then the *connection* will get **terminated**.

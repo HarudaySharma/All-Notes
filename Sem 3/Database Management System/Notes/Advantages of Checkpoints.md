@@ -8,4 +8,4 @@
 	- Hardening dirty pages refer to writing all the dirty pages from log files or the buffer to physical disk.
 
 - Checkpoint serves as the synchronization point between the database and the transaction log file.
-- Checkpoint accelerates the data recovery process.
+- Checkpoint **accelerates** the **data recovery process**.

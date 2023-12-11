@@ -107,9 +107,8 @@
 #### *[[What is Normalization?]]*
 #### *[[Purpose of Normalization]]*
 #### *[[Levels of Normalization]]*
-
 ---
-
+%%Light mode can be used from here%%
 ## *Transaction*
 
 #### *[[What is Transaction ?]]*
@@ -130,4 +129,14 @@
 	- [x] 1 NF
 	- [x] 2 NF
 	- [x] 3 NF
+	- [ ] Questions on 
+		- [ ] Closure of attribute set
+		- [ ] Closure of functional dependency set
+		- [ ] Finding candidate keys from given fDs
+		- [ ] Cover (equivalence of two fDs)
+		- [ ] Canonical cover
+		- [ ] Normalization
+			- [ ] 2 NF, 3 NF, 3.5 NF
+			- [ ] Highest normal form
+	- [ ] Decomposition
 %%

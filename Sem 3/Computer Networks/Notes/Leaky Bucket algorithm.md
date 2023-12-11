@@ -7,8 +7,8 @@
 >- The input rate can vary, but the output rate remains constant. 
 
 >[!note] *Similarly*
->- Leaky bucket can smooth out the bursty traffic.
->- Bursty chunks are stored in the bucket and sent out at an average rate.
+>- Leaky bucket can ==smooth out== the **bursty traffic**.
+>- *Bursty chunks* are *stored* in the *bucket* and ==sent out at== an ==average rate==.
 
 ##### *[[Example of Leaky bucket algorithm|Example]]*
 

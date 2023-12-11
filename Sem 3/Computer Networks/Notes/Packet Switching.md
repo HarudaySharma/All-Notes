@@ -2,8 +2,9 @@ In packet-switching :-
 - The whole ***<span style="color:#00ffff">message</span>*** is ***<span style="color:#00ffff">divided into smaller pieces</span>*** of packets.
 - These packets ***<span style="color:#00ffff">travel across the network</span>*** and take ***<span style="color:#00ffff">shortest possible path</span>***.
 
-- #### How it works ?
-	- Message ***<span style="color:#01ff07">divided into packets</span>***.
+#### How it works ?
+ 
+- Message ***<span style="color:#01ff07">divided into packets</span>***.
 	- Every packet has a ***<span style="color:#01ff07">sequence number associated</span>*** with it.
 	- Packets ***<span style="color:#01ff07">contains information</span>*** in its ***<span style="color:#01ff07">header</span>*** such as
 		- ***<span style="color:#fffd01">Source address</span>***, ***<span style="color:#fffd01">destination address</span>*** and ***<span style="color:#fffd01">sequence number</span>***.

@@ -1,3 +1,3 @@
-- Ports ranging from 1024 to 49,151 
-- Not assigned or controlled by [[IANA]].
-- They can only be registered with [[IANA]] to prevent duplication.
+- Ports *ranging* from <u>**1024**</u>(${\color{red} 2^{10}}$) to <u>**49,151**</u>(${\color{Red} 2^{15} \times 1.5}$)
+- **<u>Not</u> assigned** or **controlled** by [[IANA]].
+- They can *only* be *registered* with [[IANA]] to *prevent duplication*.

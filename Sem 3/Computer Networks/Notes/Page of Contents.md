@@ -33,7 +33,7 @@ the parties creating and using the data.
 ---
 ### *Data Representation :*
 
-#### [[Ways in which data can be represented]]
+##### [[Ways in which data can be represented]]
 ---
 ### *Data Flow :*
 
@@ -46,7 +46,6 @@ Communication between two devices can be *one of the following only*.
 ![[Screenshot 2023-08-10 191926.png]]
 
 ---
-
 # Networks
 
 A network is a set of devices {[[nodes]]} connected by communication [[ links]].
@@ -75,17 +74,13 @@ A network is a set of devices {[[nodes]]} connected by communication [[ links]].
 
 There are many criteria's which must be meet by a network, the **most important** of them are <span style="color:#00ff4b">performance</span>, <span style="color:#00ff4b">reliability</span> and <span style="color:#00ff4b">security</span> . 
 
-- ***<span style="color:#00ffff">performance</span>*** *can be measured in many ways, including [[transit time]] and [[response time]]. and it depends on number of factors, including the **number of users, transmission medium, connected hardware and efficiency of the software.****
-	  *performance is evaluated by two [[networking metrics]]*.
-
-
+- ***<span style="color:#00ffff">performance</span>*** can be measured in many ways, including [[transit time]] and [[response time]]. and it depends on number of factors, including the ***number of users, transmission medium, connected hardware and efficiency of the software.***
+	- *performance is evaluated by two [[networking metrics]]*
 - **network** ***<span style="color:#00ffff">reliability</span>*** *is measured by the frequency of failure, time taken by a link to recover from a failure, and network's robustness in a catastrophe.* 
-
-
-- **network** ***<span style="color:#00ffff">security</span>*** *includes :
-			> protecting data from unauthorized access
-			> protecting data from damage and development
-			> implementing policies and procedures for recovery from breaches and data loss.* 
+- **network** ***<span style="color:#00ffff">security</span>*** *includes :*
+	- *protecting data from unauthorized access*
+	- *protecting data from damage and development*
+	- *implementing policies and procedures for recovery from breaches and data loss.* 
 
 ---
 ## *Types of N/W Connections :*
@@ -170,8 +165,7 @@ Network devices, also known as **networking hardware**, are *physical devices* t
 
 #### [[X.25]]
 #### [[Frame Relay]]
-
-#### [[X.25 vs Frame Relay]]
+#### [[Frame Relay vs X.25]]
 
 ---
 ## *Error Detection :* 
@@ -200,7 +194,7 @@ Network devices, also known as **networking hardware**, are *physical devices* t
 ---
 ## *Transport Layer :*
 
-#### *[[Responsibility|Responsibility Transport Layer]]*
+#### *[[Responsibility Transport Layer|Responsibility]]*
 
 #### *[[Client-Server Paradigm]]*
 
@@ -214,9 +208,7 @@ Network devices, also known as **networking hardware**, are *physical devices* t
 
 #### *[[Transport Layer Protocols]]*
 
-
 ---
-
 ## *Congestion Control :*
 
 #### *[[What is Congestion Control in CN|What is Congestion Control]]*
@@ -227,6 +219,8 @@ Network devices, also known as **networking hardware**, are *physical devices* t
 
 
 ---
+%%
+**currently at Closed loop Congestion control techniques**
 #### Topics left to be inserted into the notes.
 
 >[!todo] 
@@ -253,5 +247,6 @@ Network devices, also known as **networking hardware**, are *physical devices* t
 >			- [x] Token Bucket
 >8. [x] TCP And UDP protocols
 
----
+
+%%
 

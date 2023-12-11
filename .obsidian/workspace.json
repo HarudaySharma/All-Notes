@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "02ea1d9746f5c0d9",
+        "id": "76337f7bff4795ee",
         "type": "tabs",
         "children": [
           {
-            "id": "8bc4c2c811e3c6d5",
+            "id": "0a4556fe6f74cced",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Sem 3/Database Management System/Notes/Page of Contents.md",
-                "mode": "preview",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -85,9 +81,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Sem 3/Database Management System/Notes/Page of Contents.md"
-              }
+              "state": {}
             }
           },
           {
@@ -104,7 +98,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Sem 3/Database Management System/Notes/Page of Contents.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -121,7 +114,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Sem 3/Database Management System/Notes/Page of Contents.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -153,9 +145,7 @@
             "type": "leaf",
             "state": {
               "type": "file-properties",
-              "state": {
-                "file": "Sem 3/Database Management System/Notes/Page of Contents.md"
-              }
+              "state": {}
             }
           },
           {
@@ -185,54 +175,53 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "8bc4c2c811e3c6d5",
+  "active": "0a4556fe6f74cced",
   "lastOpenFiles": [
-    "Sem 3/Database Management System/Notes/3.5 th Normal Form (3.5 NF) {Normalization}.md",
-    "Sem 3/Database Management System/Notes/5 th Normal Form (5 NF) {Normalization}.md",
-    "Sem 3/Database Management System/Notes/4 th Normal Form (4 NF) {Normalization}.md",
-    "Sem 3/Database Management System/Notes/Log Based Recovery (Recovery Techniques).md",
-    "Sem 3/Database Management System/Notes/Checkpointing (Log based Recovery).md",
-    "Sem 3/Database Management System/Notes/Purpose of Checkpoint in DBMS.md",
-    "Sem 3/Database Management System/Notes/What is a Checkpoint in DBMS.md",
-    "Sem 3/Database Management System/Notes/Techniques of Recovery.md",
-    "Sem 3/Database Management System/Notes/Recoverability.md",
-    "Sem 3/Database Management System/Notes/Page of Contents.md",
-    "Sem 3/Database Management System/Notes/Why we need Concurrency Control.md",
-    "Sem 3/Database Management System/Notes/Concurrency Control.md",
-    "Sem 3/Database Management System/Notes/Concurrency Control Protocols.md",
-    "Sem 3/Database Management System/Notes/Time Stamp Concurrency Control Protocol.md",
-    "Sem 3/Database Management System/Notes/How a Timestamp Ordering Protocol Works.md",
-    "Sem 3/Database Management System/Notes/What are Timestamp Ordering Protocols.md",
-    "Sem 3/Database Management System/Notes/Example of Timestamp Ordering Protocol.md",
-    "Sem 3/Database Management System/Notes/Lock Based Concurrency Control Protocol.md",
-    "Sem 3/Database Management System/Notes/What are a Lock Based Protocols.md",
-    "Sem 3/Database Management System/Notes/Types of Lock Protocols.md",
-    "Sem 3/Database Management System/Notes/Two-phase locking (2PL).md",
-    "Sem 3/Database Management System/Notes/Strict Two-phase locking (Strict-2PL).md",
-    "Sem 3/Database Management System/Notes/Phases by which a Transaction go through.md",
-    "Sem 3/Database Management System/Notes/Types of Locks in Lock Based Protocols.md",
-    "Sem 3/Database Management System/Notes/Exclusive Lock (E).md",
-    "Sem 3/Database Management System/Notes/Example of Exclusive Lock (E).md",
+    "Sem 3/Computer Networks/Resource Bank/HTTPS.pdf",
+    "Sem 3/Computer Networks/Notes/UDP Header Format.md",
+    "Sem 3/Computer Networks/Notes/User Datagram Protocol (UDP)[Detailed].md",
+    "Sem 3/Computer Networks/Notes/Transport Layer Protocols.md",
+    "Sem 3/Computer Networks/Notes/Transmission Control Protocol (TCP) [Detailed].md",
+    "Sem 3/Computer Networks/Notes/TCP Header Format.md",
+    "Sem 3/Computer Networks/Notes/Page of Contents.md",
+    "Sem 3/Computer Networks/Notes/Multiplexing and Demultiplexing.md",
+    "Sem 3/Computer Networks/Notes/Data Link Layer Protocols.md",
+    "Sem 3/Computer Networks/Notes/Multiple Access Protocols DLL.md",
+    "Sem 3/Computer Networks/Notes/Types of Multi Access Protocols DLL.md",
+    "Sem 3/Computer Networks/Notes/Random Access Protocols DLL.md",
+    "Sem 3/Computer Networks/Notes/Aloha RAP DLL.md",
+    "Sem 3/Computer Networks/Notes/Types of Aloha RAP DLL.md",
+    "Sem 3/Computer Networks/Notes/Types of Data Link Protocols EC DLL.md",
+    "Sem 3/Computer Networks/Notes/Basic Inter-networking.md",
+    "Sem 3/Computer Networks/Notes/Address Resolution Protocol Header Format (ARP).md",
+    "Sem 3/Computer Networks/Notes/IP Datagram Header Format.md",
+    "Sem 3/Computer Networks/Notes/Channelization Protocols.md",
+    "Sem 3/Computer Networks/Notes/Controlled Access Protocol DLL.md",
+    "Sem 3/Computer Networks/Notes/Token Passing Access Method CAP DLL.md",
+    "Sem 3/Computer Networks/Notes/Polling Access Method CAP DLL.md",
+    "Sem 3/Computer Networks/Notes/Reservation Access Method CAP DLL.md",
+    "Sem 3/Computer Networks/Notes/Frame Relay vs X.25.md",
+    "Sem 3/Computer Networks/Notes/Types of switching techniques.md",
+    "Sem 3/Computer Networks/Notes/Circuit Vs Message Vs Packet Switching.md",
+    "Sem 3/Computer Networks/Resource Bank/Distance Vector Routing Example.pdf",
+    "Sem 3/Computer Networks/Resource Bank/Numericals+IP.pdf",
+    "Sem 3/Database Management System/Resource Bank/Pasted image 20231016184345.png",
+    "Sem 3/Computer Networks/Resource Bank/Transport Layer.pdf",
+    "Sem 3/Computer Networks/Resource Bank/Slotted Aloha and Pure Aloha Examples.pdf",
+    "Sem 3/Computer Networks/Resource Bank/Flow Control 1.pdf",
+    "Sem 3/Computer Networks/Resource Bank/ST-2 1.pdf",
+    "Sem 3/Database Management System/Resource Bank/Pasted Image 20231203054446_607.png",
+    "Sem 3/Database Management System/Resource Bank/Pasted Image 20231203053746_569.png",
+    "Sem 3/Database Management System/Resource Bank/Pasted Image 20231202183712_503.png",
+    "Sem 3/Database Management System/Resource Bank/Pasted Image 20231202182412_461.png",
+    "Sem 3/Database Management System/Resource Bank/Pasted Image 20231202181912_497.png",
+    "Sem 3/Database Management System/Resource Bank/Pasted Image 20231202180912_467.png",
+    "Sem 3/Database Management System/Resource Bank/Pasted Image 20231202180512_467.png",
+    "Sem 3/Database Management System/Resource Bank/Pasted Image 20231202173912_459.png",
     "Sem 3/Database Management System/Resource Bank/Pasted image 20231126154244.png",
-    "Sem 3/Resource Cluster/Pasted Image 20231203054446_607.png",
-    "Sem 3/Database Management System/Resource Bank/Pasted image 20231203212515.png",
-    "Sem 3/Database Management System/Resource Bank/Pasted image 20231203211957.png",
-    "Sem 3/Resource Cluster/Pasted Image 20231202183712_503.png",
-    "Sem 3/Resource Cluster/Pasted Image 20231203053746_569.png",
-    "Sem 3/Resource Cluster/Pasted image 20231203212454.png",
-    "Sem 3/Resource Cluster/Pasted Image 20231202180512_467.png",
-    "Sem 3/Resource Cluster/Pasted Image 20231202173912_459.png",
     "Sem 3/Database Management System/Resource Bank/Transactions study material.pdf",
     "Sem 3/Database Management System/Resource Bank/DBMS_Lect.4.pptx",
     "Sem 3/Database Management System/Resource Bank/DBMS_Lect.8.pptx",
-    "Sem 3/Database Management System/Resource Bank/DBMS_Lect.10.2 (practice).pptx",
-    "Sem 3/Database Management System/Resource Bank/DBMS_Lect.11.pptx",
-    "Sem 3/Database Management System/Resource Bank/24042020_Transaction Management in DBMS.pdf",
-    "Sem 3/Database Management System/Resource Bank/DBMS_Lect.10.pptx",
-    "Sem 3/Database Management System/Resource Bank/DBMS_Lect.3.pptx",
-    "Sem 3/Database Management System/Resource Bank/DBMS_Lect.5.pptx",
-    "Sem 3/Database Management System/Resource Bank/DBMS_Lect.9.pptx",
-    "Sem 3/Database Management System/Resource Bank/DBMS-1-Tier-Architecture.webp",
     "Untitled.canvas"
   ]
 }

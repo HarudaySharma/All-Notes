@@ -1,2 +1,2 @@
-- This protocol ensures that the data reaches the intended receiver in the same order in which it is sent.
-- It orders and numbers each segment so that the TCP layer on the destination side can reassemble them based on their ordering.
+- This protocol *ensures* that the *data reaches* the intended *receiver* in the **same order** in which *it* is *sent*.
+- It *orders* and **numbers** each **segment** so that the **TCP layer** on the *destination side* can **reassemble** them *based* on their *ordering*.
