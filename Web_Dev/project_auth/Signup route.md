@@ -1,0 +1,4 @@
+- This route will get the post data from the client 
+	- Checks if the data is valid
+	- Implement encryption
+	- Add it into the `db` 

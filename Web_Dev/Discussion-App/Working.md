@@ -1,0 +1,12 @@
+*Following is the approach I took for building this app* :-
+- When someone visits the website, they will be redirected to the home page. 
+	- Home page will have a question board containing all the questions yet to be resolved.
+	- Home page will also contain all the necessary links for the website.
+- User without log in will have read-only access to the questions.
+- User can create a new account when visiting the sign up page.
+	- After signing up, user will be redirected to the sign in page and there they can log in to the website.
+- User logged in can write new questions and responses for the existing ones.
+- User on visiting their profile - 
+	- Can change there username, password and profile picture.
+	- User can delete or sign out. 
+	- User can also see all the questions asked by them.

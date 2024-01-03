@@ -1,0 +1,4 @@
+- Discussion app  just as the name suggests will be a app where user can discuss there thoughts with each other.
+- I'm building this app for making a private communication system b/w students in my university.
+	- Mainly centered to my friend circle. 
+- Users can post questions and can get responses from other users.
