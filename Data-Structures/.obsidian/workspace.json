@@ -8,12 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "ada955d94ecb74bf",
+            "id": "b33939dfc89588d1",
             "type": "leaf",
             "state": {
               "type": "excalidraw",
               "state": {
-                "file": "Excalidraw/Drawing 2024-01-10 16.26.33.excalidraw.md"
+                "file": "Excalidraw/Drawing 2024-01-11 16.14.53.excalidraw.md"
               }
             }
           }
@@ -83,7 +83,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Excalidraw/Drawing 2024-01-10 16.26.33.excalidraw.md"
+                "file": "Excalidraw/Drawing 2024-01-11 16.14.53.excalidraw.md"
               }
             }
           },
@@ -101,7 +101,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Excalidraw/Drawing 2024-01-10 16.26.33.excalidraw.md",
+                "file": "Excalidraw/Drawing 2024-01-11 16.14.53.excalidraw.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +118,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Excalidraw/Drawing 2024-01-10 16.26.33.excalidraw.md",
+                "file": "Excalidraw/Drawing 2024-01-11 16.14.53.excalidraw.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -153,7 +153,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Excalidraw/Drawing 2024-01-10 16.26.33.excalidraw.md"
+                "file": "Excalidraw/Drawing 2024-01-11 16.14.53.excalidraw.md"
               }
             }
           },
@@ -186,10 +186,11 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "ada955d94ecb74bf",
+  "active": "b33939dfc89588d1",
   "lastOpenFiles": [
-    "Excalidraw/Drawing 2024-01-09 16.38.08.excalidraw.md",
     "Excalidraw/Drawing 2024-01-10 16.26.33.excalidraw.md",
+    "Excalidraw/Drawing 2024-01-11 16.14.53.excalidraw.md",
+    "Excalidraw/Drawing 2024-01-09 16.38.08.excalidraw.md",
     "Home.md",
     "Excalidraw/Drawing 2024-01-05 10.51.35.excalidraw.md",
     "Excalidraw/Drawing 2024-01-08 17.05.06.excalidraw.md",
@@ -227,7 +228,6 @@
     "Excalidraw/Scripts/Downloaded/Select Elements of Type.md",
     "Excalidraw/Scripts/Downloaded/Set Dimensions.md",
     "Excalidraw/Scripts/Downloaded/Set Font Family.md",
-    "Excalidraw/Scripts/Downloaded/Uniform size.md",
     "Sem 3/Excalidraw/Scripts/Downloaded",
     "Sem 3/Excalidraw/Scripts",
     "Sem 3/Excalidraw",

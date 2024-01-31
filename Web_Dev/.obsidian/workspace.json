@@ -4,15 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "af6ff695efa5bdf4",
+        "id": "33a675f1970fedc8",
         "type": "tabs",
         "children": [
           {
-            "id": "d4835dd0b516279f",
+            "id": "ef1856a1898c52d5",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "TerminalAnimeApp/Features.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -65,7 +69,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 287
+    "width": 287,
+    "collapsed": true
   },
   "right": {
     "id": "8d4f179bdce6ece6",
@@ -81,7 +86,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Discussion-App/Attachments/Drawing 2023-12-28 15.57.12.excalidraw.md"
+                "file": "TerminalAnimeApp/Features.md"
               }
             }
           },
@@ -99,7 +104,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Discussion-App/Attachments/Drawing 2023-12-28 15.57.12.excalidraw.md",
+                "file": "TerminalAnimeApp/Features.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +121,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Discussion-App/Attachments/Drawing 2023-12-28 15.57.12.excalidraw.md",
+                "file": "TerminalAnimeApp/Features.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -151,7 +156,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Discussion-App/Attachments/Drawing 2023-12-28 15.57.12.excalidraw.md"
+                "file": "TerminalAnimeApp/Features.md"
               }
             }
           },
@@ -163,12 +168,12 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 296
+    "width": 295,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -179,11 +184,21 @@
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "audio-recorder:Start/stop recording": false,
-      "table-editor-obsidian:Advanced Tables Toolbar": false
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "d4835dd0b516279f",
+  "active": "ef1856a1898c52d5",
   "lastOpenFiles": [
+    "2024-01-14.md",
+    "TerminalAnimeApp/Features.md",
+    "TerminalAnimeApp/App design.md",
+    "TerminalAnimeApp/Home.md",
+    "2023-12-30.md",
+    "Resource Cluster/App design 2024-01-14 13.51.45.excalidraw.md",
+    "TerminalAnimeApp/What is the idea.md",
+    "WebDesign/Home.md",
+    "TerminalAnimeApp",
     "Excalidraw/Drawing 2023-12-23 18.05.10.excalidraw.md",
     "Discussion-App/Attachments/Drawing 2023-12-28 15.57.12.excalidraw.md",
     "Backend/React Flow and structure.md",
@@ -194,8 +209,6 @@
     "Discussion-App/Attachments/Pasted Image 20231228155729_249.png",
     "Discussion-App/Attachments/Design 2023-12-20 12.36.10.excalidraw.md",
     "Discussion-App/Attachments",
-    "WebDesign/Home.md",
-    "2023-12-30.md",
     "Discussion-App/Functions of the App.md",
     "Discussion-App/What is this App.md",
     "Discussion-App/Discussion-App.md",
@@ -209,17 +222,11 @@
     "Excalidraw/Scripts/Downloaded/Set Text Alignment.svg",
     "Excalidraw/Scripts/Downloaded/Set Text Alignment.md",
     "Excalidraw/Scripts/Downloaded/Set Font Family.svg",
-    "Excalidraw/Scripts/Downloaded/Set Font Family.md",
     "Excalidraw/Scripts/Downloaded/Invert colors.svg",
-    "Excalidraw/Scripts/Downloaded/Invert colors.md",
     "Excalidraw/Scripts/Downloaded/Golden Ratio.svg",
-    "Excalidraw/Scripts/Downloaded/Golden Ratio.md",
     "Excalidraw/Scripts/Downloaded/Create new markdown file and embed into active drawing.svg",
-    "Excalidraw/Scripts/Downloaded/Create new markdown file and embed into active drawing.md",
     "Excalidraw/Scripts/Downloaded/Auto Layout.svg",
-    "Excalidraw/Scripts/Downloaded/Auto Layout.md",
     "Excalidraw/Scripts/Downloaded/Set Grid.svg",
-    "Excalidraw/Scripts/Downloaded/Set Grid.md",
     "Excalidraw/Scripts/Downloaded/Scribble Helper.svg",
     "Excalidraw/Scripts/Downloaded/Rename Image.svg",
     "Excalidraw/Scripts/Downloaded",
@@ -229,7 +236,6 @@
     "Sem 3/Database Management System/DBMS_Revision",
     "Web_Dev/project_auth",
     "Web_Dev/Backend",
-    "Web_Dev/WebDesign",
     "Untitled.canvas"
   ]
 }
