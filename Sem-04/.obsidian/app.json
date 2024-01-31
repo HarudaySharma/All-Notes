@@ -2,7 +2,7 @@
   "promptDelete": false,
   "alwaysUpdateLinks": true,
   "newFileLocation": "current",
-  "attachmentFolderPath": "Sem 3/Resource Cluster",
+  "attachmentFolderPath": "Sme-04/Resource Cluster",
   "pdfExportSettings": {
     "includeName": true,
     "pageSize": "Letter",
@@ -14,5 +14,6 @@
   "propertiesInDocument": "source",
   "defaultViewMode": "source",
   "showLineNumber": false,
-  "showUnsupportedFiles": true
+  "showUnsupportedFiles": true,
+  "vimMode": true
 }
