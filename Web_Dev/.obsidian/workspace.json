@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "TerminalAnimeApp/Features.md",
+                "file": "IP Project/Need.md",
                 "mode": "source",
                 "source": false
               }
@@ -69,8 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 287,
-    "collapsed": true
+    "width": 287
   },
   "right": {
     "id": "8d4f179bdce6ece6",
@@ -86,7 +85,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "TerminalAnimeApp/Features.md"
+                "file": "IP Project/Need.md"
               }
             }
           },
@@ -104,7 +103,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "TerminalAnimeApp/Features.md",
+                "file": "IP Project/Need.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -121,7 +120,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "TerminalAnimeApp/Features.md",
+                "file": "IP Project/Need.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -156,7 +155,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "TerminalAnimeApp/Features.md"
+                "file": "IP Project/Need.md"
               }
             }
           },
@@ -190,15 +189,18 @@
   },
   "active": "ef1856a1898c52d5",
   "lastOpenFiles": [
+    "2024-01-17.md",
+    "IP Project/Need.md",
+    "IP Project",
+    "MyAnimeList-CLI/Home.md",
+    "MyAnimeList-CLI/App design.md",
+    "MyAnimeList-CLI/Features.md",
+    "MyAnimeList-CLI/What is the idea.md",
     "2024-01-14.md",
-    "TerminalAnimeApp/Features.md",
-    "TerminalAnimeApp/App design.md",
-    "TerminalAnimeApp/Home.md",
     "2023-12-30.md",
     "Resource Cluster/App design 2024-01-14 13.51.45.excalidraw.md",
-    "TerminalAnimeApp/What is the idea.md",
     "WebDesign/Home.md",
-    "TerminalAnimeApp",
+    "MyAnimeList-CLI",
     "Excalidraw/Drawing 2023-12-23 18.05.10.excalidraw.md",
     "Discussion-App/Attachments/Drawing 2023-12-28 15.57.12.excalidraw.md",
     "Backend/React Flow and structure.md",
@@ -218,9 +220,7 @@
     "Discussion-App/How will it work.md",
     "Resource Cluster",
     "Discussion-App/Database Schema.md",
-    "Discussion-App/API.md",
     "Excalidraw/Scripts/Downloaded/Set Text Alignment.svg",
-    "Excalidraw/Scripts/Downloaded/Set Text Alignment.md",
     "Excalidraw/Scripts/Downloaded/Set Font Family.svg",
     "Excalidraw/Scripts/Downloaded/Invert colors.svg",
     "Excalidraw/Scripts/Downloaded/Golden Ratio.svg",
@@ -235,7 +235,6 @@
     "Web_Dev/Discussion-App",
     "Sem 3/Database Management System/DBMS_Revision",
     "Web_Dev/project_auth",
-    "Web_Dev/Backend",
     "Untitled.canvas"
   ]
 }

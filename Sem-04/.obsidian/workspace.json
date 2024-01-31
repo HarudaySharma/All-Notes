@@ -4,15 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "bed211a82c2d01fd",
+        "id": "812a536fc6809388",
         "type": "tabs",
         "children": [
           {
-            "id": "15f325b18f21121c",
+            "id": "9c01476cb6bd1125",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Types of Registers.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -65,7 +69,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 287
+    "width": 287,
+    "collapsed": true
   },
   "right": {
     "id": "8d4f179bdce6ece6",
@@ -80,7 +85,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Types of Registers.md"
+              }
             }
           },
           {
@@ -97,6 +104,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Types of Registers.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,6 +121,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Types of Registers.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +155,9 @@
             "type": "leaf",
             "state": {
               "type": "file-properties",
-              "state": {}
+              "state": {
+                "file": "Types of Registers.md"
+              }
             }
           },
           {
@@ -156,13 +167,23 @@
               "type": "advanced-tables-toolbar",
               "state": {}
             }
+          },
+          {
+            "id": "ec0c284a66cdf4c0",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "Object Oriented Sofware Engineering/Resource Bank/m02L03.pdf"
+              }
+            }
           }
         ],
         "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 316.5
+    "width": 447.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -177,54 +198,54 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "15f325b18f21121c",
+  "active": "9c01476cb6bd1125",
   "lastOpenFiles": [
-    "2024-01-12.md",
-    "2024-01-10.md",
-    "2024-01-11.md",
-    "2024-01-08.md",
-    "ULSI.md",
-    "VLSI.md",
-    "Machine Learning/Main.md",
-    "Machine Learning/Resource Bank",
-    "Machine Learning/Resource Bank/Lesson 1.pdf",
-    "Machine Learning/Types of learning for machines.md",
-    "Machine Learning/Unsupervised learning.md",
-    "Machine Learning/Supervised learning.md",
-    "Machine Learning/Resource Bank/Pasted image 20240112105351.png",
-    "Machine Learning/What is machine learning.md",
-    "Machine Learning",
+    "Registers.md",
+    "Types of Registers.md",
+    "How Registers are made.md",
+    "Gated D-flipflops.md",
+    "SR Flip Flop.md",
+    "2024-01-31.md",
+    "2024-01-30.md",
+    "T-Fliplop.md",
     "Computer System Architecture/Resource Bank/Computer System Architecture 3rd Edition-M Morris Mano.pdf",
-    "Backend Engineering/Untitled.md",
-    "Computer System Architecture/Drawings/Organization of Computer System.md",
-    "Computer System Architecture/Drawings",
-    "Excalidraw",
-    "Computer System Architecture/Page of Content.md",
-    "Computer System Architecture/What will be studying.md",
-    "Computer System Architecture/Computer Design responsibility.md",
-    "Computer System Architecture/Computer organiztion responsibility.md",
-    "Computer System Architecture/Computer architecture responsibility.md",
-    "Computer System Architecture/Architecture.md",
-    "Computer System Architecture/Resource Bank",
-    "Computer System Architecture",
-    "Computer System Architecture/Design.md",
-    "Computer System Architecture/Organization.md",
-    "Backend Engineering",
-    "DataStructures/Drawing 2024-01-08 08.54.18.excalidraw.md",
+    "JK Flipflop.md",
+    "2024-01-25.md",
+    "2024-01-29.md",
+    "Object Oriented Sofware Engineering/Home.md",
+    "Object Oriented Sofware Engineering/How is building of programs done now.md",
+    "Object Oriented Sofware Engineering/Types of Life Cycle Models.md",
+    "Object Oriented Sofware Engineering/Classical Waterfall Model.md",
+    "Object Oriented Sofware Engineering/Resource Bank/m02L03.pdf",
+    "Object Oriented Sofware Engineering/SDLC.md",
+    "Object Oriented Sofware Engineering/What is SDLC.md",
+    "Object Oriented Sofware Engineering/Evolution of software design techniques over last 50 years.md",
+    "Object Oriented Sofware Engineering/Exploratory Style vs Modern Style SD.md",
+    "Object Oriented Sofware Engineering/Resource Bank/m01L02.pdf",
+    "Object Oriented Sofware Engineering/Structured programming.md",
+    "Object Oriented Sofware Engineering/Advantages SP.md",
+    "Object Oriented Sofware Engineering/Important features SP.md",
+    "Object Oriented Sofware Engineering/Program vs Software Product.md",
+    "Object Oriented Sofware Engineering/Resource Bank/m01L01.pdf",
+    "Object Oriented Sofware Engineering/Software Crisis.md",
+    "Object Oriented Sofware Engineering/Solution of Software Crisis.md",
+    "Object Oriented Sofware Engineering/Causes of Software crisis.md",
+    "Pasted image 20240129172610.png",
+    "Pasted image 20240129172238.png",
+    "Pasted image 20240129171930.png",
+    "Pasted image 20240129171409.png",
+    "Object Oriented Sofware Engineering/Resource Bank/m05L12.pdf",
+    "Object Oriented Sofware Engineering/Resource Bank/m05L11.pdf",
+    "Object Oriented Sofware Engineering/Resource Bank/m05L10.pdf",
+    "Object Oriented Sofware Engineering/Resource Bank/m04L09.pdf",
+    "Object Oriented Sofware Engineering/Resource Bank/m04L08.pdf",
+    "Object Oriented Sofware Engineering/Resource Bank/Pasted image 20240129062107.jpg",
+    "Object Oriented Sofware Engineering/Resource Bank/Pasted image 20240129061111.png",
+    "Object Oriented Sofware Engineering/Resource Bank/OOSE1.pptx",
+    "Object Oriented Sofware Engineering/Resource Bank/Pasted image 20240128174724.jpg",
+    "Object Oriented Sofware Engineering/Resource Bank/SDLC.jpg",
+    "Machine Learning/Resource Bank/Pasted image 20240112105351.png",
     "Web_Dev/Excalidraw/Scripts/Downloaded/Set Text Alignment.svg",
-    "Web_Dev/Excalidraw/Scripts/Downloaded/Set Text Alignment.md",
-    "Web_Dev/Excalidraw/Scripts/Downloaded/Set Font Family.svg",
-    "Web_Dev/Excalidraw/Scripts/Downloaded/Set Font Family.md",
-    "Web_Dev/Excalidraw/Scripts/Downloaded/Invert colors.svg",
-    "Web_Dev/Excalidraw/Scripts/Downloaded/Invert colors.md",
-    "Web_Dev/Excalidraw/Scripts/Downloaded/Golden Ratio.svg",
-    "Web_Dev/Excalidraw/Scripts/Downloaded/Golden Ratio.md",
-    "Web_Dev/Excalidraw/Scripts/Downloaded/Create new markdown file and embed into active drawing.svg",
-    "Web_Dev/Excalidraw/Scripts/Downloaded/Auto Layout.svg",
-    "Excalidraw/Scripts/Downloaded/Create new markdown file and embed into active drawing.svg",
-    "Excalidraw/Scripts/Downloaded/Elbow connectors.svg",
-    "Excalidraw/Scripts/Downloaded/Golden Ratio.svg",
-    "Sem 3/Excalidraw/Scripts/Downloaded",
     "Untitled.canvas"
   ]
 }

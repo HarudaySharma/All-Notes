@@ -1,0 +1,4 @@
+- Self organizing teams.
+- Product progresses in a series of month-long **sprints**.
+- Requirement are captured as items in a list of **product backlog**.
+- One of the agile processes

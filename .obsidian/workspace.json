@@ -11,7 +11,7 @@
             "id": "013207ea78bc726f",
             "type": "leaf",
             "state": {
-              "type": "empty",
+              "type": "graph",
               "state": {}
             }
           }
@@ -176,7 +176,7 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "c06d6ab8c7b965c6",
+  "active": "013207ea78bc726f",
   "lastOpenFiles": [
     "Web_Dev/Excalidraw/Scripts/Downloaded/Set Text Alignment.svg",
     "Web_Dev/Excalidraw/Scripts/Downloaded/Set Text Alignment.md",

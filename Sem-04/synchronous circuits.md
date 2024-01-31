@@ -1,0 +1,4 @@
+- Memory element are clocked flipflops.
+- The change in input signals can affect memory elements upon activation of clock signal.
+- Maximum operating speed of clock depends on time delays involved.
+- easier to design.

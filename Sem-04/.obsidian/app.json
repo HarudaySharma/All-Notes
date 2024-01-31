@@ -13,7 +13,7 @@
   "spellcheck": false,
   "propertiesInDocument": "source",
   "defaultViewMode": "source",
-  "showLineNumber": false,
+  "showLineNumber": true,
   "showUnsupportedFiles": true,
   "vimMode": true
 }
