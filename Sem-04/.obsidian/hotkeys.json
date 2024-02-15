@@ -97,15 +97,15 @@
   "app:go-back": [
     {
       "modifiers": [
-        "Mod"
+        "Alt"
       ],
-      "key": "H"
+      "key": "ArrowLeft"
     },
     {
       "modifiers": [
         "Alt"
       ],
-      "key": "ArrowLeft"
+      "key": "H"
     }
   ],
   "app:go-forward": [
@@ -117,7 +117,7 @@
     },
     {
       "modifiers": [
-        "Mod"
+        "Alt"
       ],
       "key": "L"
     }
@@ -132,7 +132,7 @@
     },
     {
       "modifiers": [
-        "Mod"
+        "Alt"
       ],
       "key": " "
     }
