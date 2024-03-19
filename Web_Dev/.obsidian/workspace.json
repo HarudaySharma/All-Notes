@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "IP Project/Need.md",
+                "file": "2024-01-17.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "IP Project/Need.md"
+                "file": "2024-01-17.md"
               }
             }
           },
@@ -103,7 +103,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "IP Project/Need.md",
+                "file": "2024-01-17.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -120,7 +120,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "IP Project/Need.md",
+                "file": "2024-01-17.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -155,7 +155,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "IP Project/Need.md"
+                "file": "2024-01-17.md"
               }
             }
           },
@@ -171,8 +171,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 295,
-    "collapsed": true
+    "width": 295
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -189,15 +188,17 @@
   },
   "active": "ef1856a1898c52d5",
   "lastOpenFiles": [
-    "2024-01-17.md",
-    "IP Project/Need.md",
-    "IP Project",
-    "MyAnimeList-CLI/Home.md",
-    "MyAnimeList-CLI/App design.md",
-    "MyAnimeList-CLI/Features.md",
-    "MyAnimeList-CLI/What is the idea.md",
+    "Home.md",
     "2024-01-14.md",
     "2023-12-30.md",
+    "2023-12-28.md",
+    "IP Project/Need.md",
+    "MyAnimeList-CLI/Features.md",
+    "MyAnimeList-CLI/Home.md",
+    "MyAnimeList-CLI/App design.md",
+    "2024-01-17.md",
+    "IP Project",
+    "MyAnimeList-CLI/What is the idea.md",
     "Resource Cluster/App design 2024-01-14 13.51.45.excalidraw.md",
     "WebDesign/Home.md",
     "MyAnimeList-CLI",
@@ -206,7 +207,6 @@
     "Backend/React Flow and structure.md",
     "Backend/Home.md",
     "Home 2023-12-14 14.52.33.excalidraw.md",
-    "2023-12-28.md",
     "Discussion-App/Attachments/Flow of the data 2023-12-25 12.12.35.excalidraw.md",
     "Discussion-App/Attachments/Pasted Image 20231228155729_249.png",
     "Discussion-App/Attachments/Design 2023-12-20 12.36.10.excalidraw.md",
@@ -219,7 +219,6 @@
     "Discussion-App/Working.md",
     "Discussion-App/How will it work.md",
     "Resource Cluster",
-    "Discussion-App/Database Schema.md",
     "Excalidraw/Scripts/Downloaded/Set Text Alignment.svg",
     "Excalidraw/Scripts/Downloaded/Set Font Family.svg",
     "Excalidraw/Scripts/Downloaded/Invert colors.svg",

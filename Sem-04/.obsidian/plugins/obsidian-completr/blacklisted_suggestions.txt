@@ -68,3 +68,10 @@ rA
 rä
 RA
 gOO
+aD
+nAN
+nan
+invalid
+Invalid
+Nan
+NAn
