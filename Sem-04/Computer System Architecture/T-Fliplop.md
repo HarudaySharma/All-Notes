@@ -1,3 +1,4 @@
+Also called ***Toggle Flip Flop**
 ![[Pasted image 20240214140634.png]]
  
 ![[Pasted image 20240214174949.jpg]]
@@ -13,3 +14,7 @@
 |       |     |     |      |                    |
 |  🔽   |  X  |  0  |  0   |     No Change      |
 |  🔽   |  X  |  1  |  1   |     No Change      |
+
+**Characteristic Equation**
+$Qn+1 = TQn' + T'Qn$
+==XOR Condition==

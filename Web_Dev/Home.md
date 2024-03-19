@@ -1,3 +1,9 @@
+---
+id: Home
+aliases: []
+tags: []
+---
+
 #### What is tailwind ?
 
 ### Installation procedure
@@ -8,3 +14,5 @@
 - `npx tailwindcss -i ./src/input.css -o ./build/css/style.css`
 - To not compile the tailwind manually every time you made any changes 
 	- `npx tailwindcss -i ./src/input.css -o ./build/css/style.css --watch`
+
+

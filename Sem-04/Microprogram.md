@@ -1,0 +1,8 @@
+- It *consists* of ==micro instructions that==
+	- *Specifies* various internal control signal for execution of register micro operations.
+	- Each machine instruction *initiates* a ==series of micro instructions in control memory.==
+	- These micro instructions generate the micro operations to fetch the instruction from
+		- Main memory, 
+		- To evaluate the effective address,
+		- To execute the operations specified by the instruction, and
+		- To return control to the fetch phase in order to repeat the cycle for next instruction.

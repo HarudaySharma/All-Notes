@@ -1,1 +1,0 @@
-*Stored Memory Program*

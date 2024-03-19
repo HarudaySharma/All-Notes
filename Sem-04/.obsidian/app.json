@@ -17,5 +17,5 @@
   "showUnsupportedFiles": true,
   "vimMode": true,
   "livePreview": true,
-  "readableLineLength": true
+  "readableLineLength": false
 }

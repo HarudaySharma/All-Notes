@@ -5141,6 +5141,8 @@ OGkk
 OgOW
 OFX
 OOSE
+Outcome
+Opportunity
 Systems
 Size
 Ssin
@@ -11674,6 +11676,11 @@ SfpI
 SXYq
 Stakeholders
 Stick
+Successive
+SubCycle
+SELA
+SELD
+Status
 Interconnection
 Info
 ID
@@ -23256,6 +23263,10 @@ ISW
 Interviewing
 Informal
 Interview
+Iteration
+Interrupts
+IbSAx
+Implied
 What
 WH
 Wn
@@ -28905,6 +28916,7 @@ WIR
 WXXXWW
 WGDDX
 WGfemen
+WOWiQQ
 is
 implemented
 in
@@ -34355,6 +34367,13 @@ iGKksc
 iiAe
 iSWEMg
 interviews
+integrated
+iterations
+incremental
+interrupts
+initiates
+interrupt
+interrupted
 Model
 Mg
 MNH
@@ -39193,6 +39212,8 @@ MMMG
 MgIr
 MpU
 MjBF
+Microprogramming
+Microprogram
 The
 This
 Tn
@@ -44808,6 +44829,7 @@ TjSS
 TWc
 Tij
 TOV
+Transparent
 model
 mostly
 mvg
@@ -50511,6 +50533,10 @@ mBEE
 mid
 mdpX
 mCK
+microprogrammed
+memories
+microprogram
+multiplexer
 layered
 layer
 layers
@@ -65191,6 +65217,9 @@ timing
 trigging
 tuuW
 tHJK
+testable
+tangible
+tested
 design
 defines
 dO
@@ -69625,6 +69654,8 @@ dfVf
 distilling
 described
 dispute
+divert
+directs
 of
 obj
 oJ
@@ -74343,6 +74374,8 @@ ouptut
 operational
 ojNW
 oDub
+operated
+offset
 network
 nuc
 nL
@@ -81145,7 +81178,6 @@ swf
 sMd
 sRsj
 suv
-seL
 snjo
 specified
 soon
@@ -82189,7 +82221,6 @@ sDlT
 sSq
 sTx
 shh
-sEl
 svGT
 swA
 shp
@@ -84701,6 +84732,14 @@ screenshot
 sssI
 sQT
 sPÖ
+shortcoming
+skeletal
+successive
+sequences
+seperate
+supervises
+selector
+stack
 allows
 all
 as
@@ -89615,6 +89654,12 @@ awr
 agenda
 actors
 associate
+alternative
+aWjh
+acommon
+arithmitic
+activates
+autodecrement
 communication
 computer
 can
@@ -95110,6 +95155,10 @@ coherent
 clusters
 confirms
 contractor
+core
+conservatively
+conventional
+currenty
 Fundamentals
 Filter
 FlateDecode
@@ -99473,6 +99522,10 @@ FFFFD
 FFFnnnll
 FVRjzQM
 Formal
+Freeze
+Functioning
+FINITE
+FULL
 Layered
 Layers
 Layer
@@ -110563,6 +110616,11 @@ Azz
 AlSC
 AABk
 Actors
+AKwWie
+ATdn
+Arithmitic
+Autoincrement
+Architecutre
 points
 physical
 pd
@@ -115726,6 +115784,9 @@ pLhh
 pEh
 psNQ
 prioritization
+plan
+pushed
+permits
 remember
 rz
 rWil
@@ -121880,6 +121941,11 @@ rWWW
 rVok
 reQ
 rjzd
+reveal
+refined
+requesting
+routine
+regsiters
 be
 belonging
 but
@@ -126713,6 +126779,7 @@ bEEEYC
 bvvvnnN
 bqvZEI
 bIO
+buses
 upper
 udhMR
 uB
@@ -132458,6 +132525,7 @@ uvvvww
 uuuw
 uUbfFi
 unstructured
+upfront
 hardware
 hn
 hvoA
@@ -138004,6 +138072,7 @@ hbl
 hGF
 hdhg
 healthcare
+handeled
 PDF
 Prev
 Ps
@@ -143205,6 +143274,7 @@ Pbl
 PoYO
 PISO
 Pcs
+Push
 endobj
 eR
 eE
@@ -148076,6 +148146,11 @@ eJBB
 edNg
 exyo
 eFf
+evolutionary
+executable
+enhanced
+employs
+evaluate
 xref
 xp
 xm
@@ -161092,6 +161167,8 @@ RQKE
 RuP
 Register
 Realism
+Return
+Relative
 EOF
 EK
 EQ
@@ -166007,6 +166084,10 @@ Esme
 Easier
 EpS
 EPh
+Ends
+ELGbmw
+Empty
+EMTY
 yX
 yb
 yGq
@@ -171810,6 +171891,8 @@ yFj
 yhIII
 yeWh
 ypM
+ytDVRnTI
+yxdMS
 vbeydg
 vI
 vS
@@ -186640,6 +186723,7 @@ kWff
 kMh
 kLASs
 kpppE
+kBdM
 GL
 Gtj
 Go
@@ -191603,6 +191687,7 @@ GyKUz
 GVV
 GGGCk
 Gckb
+GMXNCaOQ
 QTWnb
 Qf
 QR
@@ -196932,6 +197017,8 @@ Qdffb
 Qhhh
 QFScqVfnm
 QGc
+QYb
+QXxXTq
 Nj
 NKu
 NzYM
@@ -248185,6 +248272,8 @@ wLOD
 wwwGG
 wpV
 wVF
+waterfalls
+weeks
 De
 DE
 DXm
@@ -252885,6 +252974,10 @@ DEEE
 DOOO
 Djoo
 Defining
+Developed
+Development
+Decoder
+Decrement
 UuId
 Uy
 Uu
@@ -257184,6 +257277,7 @@ UUUI
 Uccc
 Uek
 USz
+Usually
 qi
 ql
 qM
@@ -266342,6 +266436,8 @@ CIDATx
 CFxK
 Checks
 Completeness
+Characteristic
+Central
 BW
 BaseFont
 Bpf
@@ -273653,6 +273749,7 @@ BVG
 BAY
 BeR
 BPG
+Bulk
 ZM
 Zm
 ZN
@@ -287777,6 +287874,7 @@ YeYQeQR
 YBc
 YZkGw
 YZZvR
+YFNsc
 ßtWD
 ßr
 ßX

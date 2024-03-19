@@ -75,3 +75,5 @@ invalid
 Invalid
 Nan
 NAn
+seL
+sEl
