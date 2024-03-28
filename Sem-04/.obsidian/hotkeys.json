@@ -140,7 +140,8 @@
   "editor:toggle-highlight": [
     {
       "modifiers": [
-        "Mod"
+        "Mod",
+        "Shift"
       ],
       "key": "="
     }

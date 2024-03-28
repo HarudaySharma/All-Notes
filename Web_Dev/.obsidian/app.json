@@ -15,5 +15,6 @@
   "defaultViewMode": "source",
   "showLineNumber": true,
   "showUnsupportedFiles": true,
-  "vimMode": true
+  "vimMode": true,
+  "readableLineLength": false
 }

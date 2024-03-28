@@ -5,20 +5,21 @@
 	The control unit is said to be **hard wire**.
 - Microprogramming is a *second alternative* for designing the control unit of a digital computer.
 - A computer that employs a microprogrammed control unit will have
-	<u>Two seperate memories</u>:
-	1. Main memory
-		- The main memory is available to the users for storing programs
-		- The contents of the main memory may alter when the data is manipulated and every time that program is changed.
-		- The user program in main memory consists of **machine instructions** and **data**.
-	2. Control memory
-		- The control memory holds a **fixed microprogram**
-			- That cannot be altered by the user.
-		- The [[Microprogram]] *consists* of ==micro instructions t==hat
-			- *Specifies* various internal control signal for execution of register micro operations.
-		- Each machine instruction *initiates* a ==series of micro instructions in control memory.==
-		- These micro instructions generate the micro operations to fetch the instruction from
-			- Main memory, 
-			- To evaluate the effective address,
-			- To execute the operations specified by the instruction, and
-			- To return control to the fetch phase in order to repeat the cycle for next instruction.
+<u>Two seperate memories</u>:
+1. Main memory
+- The main memory is available to the users for storing programs
+- The contents of the main memory may alter when the data is manipulated and every time that program is changed.
+- The user program in main memory consists of **machine instructions** and **data**.
+2. Control memory
+- The control memory holds a **fixed microprogram**
+	- That cannot be altered by the user.
+- The [[Microprogram]] *consists* of ==micro instructions t==hat
+	- *Specifies* various internal control signal for execution of register micro operations.
+- Each machine instruction *initiates* a ==series of micro instructions in control memory.==
+- These micro instructions generate the micro operations to fetch the instruction from
+	- Main memory, 
+	- To evaluate the effective address,
+	- To execute the operations specified by the instruction, and
+	- To return control to the fetch phase in order to repeat the cycle for next instruction.
+	
 ![[Microprogrammed Control 2024-02-27 11.47.46.excalidraw]]

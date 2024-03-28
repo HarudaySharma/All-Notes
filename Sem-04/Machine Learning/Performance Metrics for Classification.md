@@ -1,0 +1,7 @@
+#### [[Accuracy PMCML|Accuracy]]
+#### [[Confusion Matrix PMCML|Confusion Matrix]]
+#### [[Precision PMCML|Precision]]
+#### [[Recall PMCML|Recall]]
+#### [[F-Score PMCML|F-Score]]
+#### [[AUROC PMCML|AUROC]]
+#### [[AUC PMCML|AUC]]

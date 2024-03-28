@@ -4,5 +4,5 @@ It is a storage component in any computer.
 
 **n bit registers** will contain **n flip flops** and will store **n-bit word**.
 #### [[How Registers are made]] 
-#### [[Types of Registers]] 
+#### [[Types of Shift Registers]] 
 

@@ -4,15 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "baca854b46a98103",
+        "id": "9e08aaed35f3495b",
         "type": "tabs",
         "children": [
           {
-            "id": "836ae3e207b1246b",
+            "id": "055b1b830c4ef977",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "excalidraw",
+              "state": {
+                "file": "Computer System Architecture/Drawings/Organization of Computer System.md"
+              }
             }
           }
         ]
@@ -65,8 +67,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 287,
-    "collapsed": true
+    "width": 287
   },
   "right": {
     "id": "8d4f179bdce6ece6",
@@ -81,7 +82,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Computer System Architecture/Drawings/Organization of Computer System.md"
+              }
             }
           },
           {
@@ -98,6 +101,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Computer System Architecture/Drawings/Organization of Computer System.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,6 +118,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Computer System Architecture/Drawings/Organization of Computer System.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -147,7 +152,9 @@
             "type": "leaf",
             "state": {
               "type": "file-properties",
-              "state": {}
+              "state": {
+                "file": "Computer System Architecture/Drawings/Organization of Computer System.md"
+              }
             }
           },
           {
@@ -169,12 +176,11 @@
             }
           }
         ],
-        "currentTab": 7
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
-    "width": 447.5,
-    "collapsed": true
+    "width": 447.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -189,44 +195,43 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "836ae3e207b1246b",
+  "active": "055b1b830c4ef977",
   "lastOpenFiles": [
-    "2024-03-19.md",
-    "Program Interrupt.md",
-    "Complex Instruction Set Computer(CISC).md",
-    "What is PSW (Program Status Word).md",
-    "Types of interrupt.md",
-    "Software Interrupts.md",
-    "Internal Interrupts.md",
-    "External Interrupts.md",
-    "Procedure for interrupt.md",
-    "Addressing Modes.md",
-    "2024-03-14.md",
-    "Program Control Instruction.md",
-    "2024-03-13.md",
-    "Data Manipulation Instruction.md",
-    "Data Transfer Instruction.md",
-    "Stack Organization.md",
-    "2024-02-29.md",
-    "Central Processing Unit - CPU.md",
-    "Register Organization.md",
-    "Resource Cluster/Central Processing Unit - CPU 2024-02-29 09.38.53.excalidraw.md",
-    "Resource Cluster/Central Processing Unit - CPU 2024-02-29 09.47.25.excalidraw.md",
-    "ALU.md",
-    "Register set.md",
-    "Computer System Architecture/Control Unit.md",
-    "Microprogrammed Control.md",
-    "Resource Cluster/Microprogrammed Control 2024-02-27 11.47.46.excalidraw.md",
-    "Resource Cluster/Pasted image 20240216174315.png",
-    "Resource Cluster/Pasted image 20240216174248.jpg",
-    "Resource Cluster/Pasted image 20240214174949.jpg",
-    "Object Oriented Sofware Engineering/Resource Bank/Pasted image 20240129171409.png",
-    "Object Oriented Sofware Engineering/Resource Bank/Pasted image 20240129172610.png",
-    "Object Oriented Sofware Engineering/Resource Bank/Pasted image 20240129172238.png",
-    "Object Oriented Sofware Engineering/Resource Bank/Pasted image 20240129171930.png",
-    "Computer System Architecture/Resource Bank/Pasted image 20240214103121.png",
-    "Computer System Architecture/Resource Bank/Pasted image 20240214103250.png",
-    "Computer System Architecture/Resource Bank/Pasted image 20240214104241.png",
+    "Computer System Architecture/Drawings/Central Processing Unit - CPU 2024-02-29 09.38.53.excalidraw.md",
+    "Computer System Architecture/Drawings/Central Processing Unit - CPU 2024-02-29 09.47.25.excalidraw.md",
+    "Computer System Architecture/Drawings/Microprogrammed Control 2024-02-27 11.47.46.excalidraw.md",
+    "Computer System Architecture/Drawings/Single instruction stream single data stream (SISD) 2024-03-28 09.37.58.excalidraw.md",
+    "Computer System Architecture/Drawings/(MISD) 2024-03-28 09.41.53.excalidraw.md",
+    "Computer System Architecture/Drawings/(SIMD) 2024-03-28 09.53.11.excalidraw.md",
+    "Computer System Architecture/Resource Bank/Pasted image 20240214170917.png",
+    "Computer System Architecture/Resource Bank/JK-Flip-Flop-800x444.webp",
+    "Computer System Architecture/Resource Bank/d-flip-flop.webp",
+    "Computer System Architecture/Resource Bank/Pasted image 20240214174949.jpg",
+    "Computer System Architecture/Resource Bank/Pasted image 20240214172549.png",
+    "Computer System Architecture/Resource Bank/Pasted image 20240214172511.png",
+    "Computer System Architecture/Resource Bank/Pasted image 20240216174315.png",
+    "Machine Learning/Resource Bank/Pasted image 20240327170033.png",
+    "Machine Learning/Resource Bank/Pasted image 20240327171011.png",
+    "Machine Learning/Resource Bank/Pasted image 20240327171325.png",
+    "Multiple instruction stream multiple data stream (MIMD).md",
+    "Single instruction stream multiple data stream (SIMD).md",
+    "Multiple instruction stream single data stream  (MISD).md",
+    "Computer System Architecture/Syllabus CSA.md",
+    "Computer System Architecture/Basic Computer Organization.md",
+    "Computer System Architecture/Page of Content.md",
+    "Computer System Architecture/Registers.md",
+    "Computer System Architecture/Types of Shift Registers.md",
+    "Computer System Architecture/Types of Flip Flops.md",
+    "Computer System Architecture/Digital Logic Circuits.md",
+    "Computer System Architecture/Combinational and Sequential Circuits.md",
+    "Computer System Architecture/Combinational circuits.md",
+    "Computer System Architecture/Sequential Circuits.md",
+    "Computer System Architecture/What will be studying.md",
+    "Machine Learning/Main.md",
+    "Machine Learning/Generalization in Machine Learning.md",
+    "Machine Learning/Performance Metrics in Machine Learning.md",
+    "Machine Learning/Performance Metrics for Classification.md",
+    "Machine Learning/Performance Metrics for Regression.md",
     "Computer System Architecture/Resource Bank/Computer System Architecture 3rd Edition-M Morris Mano.pdf",
     "Object Oriented Sofware Engineering/Resource Bank/m02L03.pdf",
     "Object Oriented Sofware Engineering/Resource Bank/m01L02.pdf",
